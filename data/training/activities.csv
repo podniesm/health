@@ -1,0 +1,767 @@
+date,type,duration_min,distance_km,avg_hr,max_hr,elevation_m,calories,training_load,rpe,gear,notes,source
+2022-06-18,bieg,46.5,7.02,176,195,43,792,,,Kalenji JogFlow 500.1,,garmin
+2022-06-18,bieg,10.2,1.56,180,186,47,121,,,Kalenji JogFlow 500.1,,garmin
+2022-06-20,siłownia,18.3,,138,173,,152,,,,tytuł: Siła,garmin
+2022-06-21,rower,16.5,2.20,121,156,126,113,,,Kross Evado 5.0,,garmin
+2022-06-22,siłownia,4.2,,117,141,,28,,,,tytuł: Siła,garmin
+2022-06-22,siłownia,14.2,,141,161,,130,,,,tytuł: Siła,garmin
+2022-06-24,siłownia,24.3,,144,178,,222,,,,tytuł: Siła,garmin
+2022-07-04,bieg,28.4,4.18,169,190,11,310,,,Kalenji JogFlow 500.1,,garmin
+2022-07-15,bieg,36.3,5.39,170,184,46,390,,,Kalenji JogFlow 500.1,,garmin
+2022-07-19,bieg,35.1,5.17,167,181,4,376,,,Kalenji JogFlow 500.1,,garmin
+2022-07-19,bieg,3.1,0.51,186,197,18,39,,,Kalenji JogFlow 500.1,,garmin
+2022-07-22,bieg,44.2,5.26,152,170,11,354,,,Kalenji JogFlow 500.1,,garmin
+2022-07-26,bieg,44.1,5.63,155,170,4,381,,,Kalenji JogFlow 500.1,,garmin
+2022-07-28,bieg,38.3,5.42,163,187,6,381,,,Kalenji JogFlow 500.1,,garmin
+2022-07-28,rower,42.4,11.67,131,161,22,289,,,Kross Evado 5.0,,garmin
+2022-07-28,rower,24.5,6.19,135,182,23,186,,,Kross Evado 5.0,,garmin
+2022-08-01,bieg,40.6,5.39,161,187,7,370,,,Kalenji JogFlow 500.1,,garmin
+2022-08-03,bieg,38.2,5.32,158,181,4,370,,,Kalenji JogFlow 500.1,,garmin
+2022-08-05,bieg,34.4,5.01,167,180,2,360,,,Kalenji JogFlow 500.1,,garmin
+2022-08-08,bieg,30.8,4.23,151,170,8,293,,,Kalenji JogFlow 500.1,,garmin
+2022-08-11,rower,14.1,4.37,134,160,5,114,,,Kross Evado 5.0,,garmin
+2022-08-11,rower,26.8,4.47,117,162,18,149,,,Kross Evado 5.0,,garmin
+2022-08-12,bieg,37.2,5.30,165,187,5,380,,,Kalenji JogFlow 500.1,,garmin
+2022-08-15,bieg,36.5,5.28,161,188,4,376,,,Kalenji JogFlow 500.1,,garmin
+2022-08-17,rower,133.8,41.00,156,191,78,1257,,,Kross Evado 5.0,,garmin
+2022-08-19,rower,28.4,4.46,124,160,4,171,,,Kross Evado 5.0,,garmin
+2022-08-19,rower,17.1,3.89,138,170,23,143,,,Kross Evado 5.0,,garmin
+2022-08-22,bieg,35.6,5.26,160,182,5,375,,,Kalenji JogFlow 500.1,,garmin
+2022-08-24,bieg,34.7,5.41,167,191,9,390,,,Kalenji JogFlow 500.1,,garmin
+2022-08-25,rower,73.9,16.15,103,162,81,289,,,Kross Evado 5.0,,garmin
+2022-08-25,rower,34.4,7.85,111,164,19,174,,,Kross Evado 5.0,,garmin
+2022-08-29,bieg,9.0,1.51,156,181,,94,,,Kalenji JogFlow 500.1,tytuł: Warsaw - Benchmark Run,garmin
+2022-08-29,bieg,26.4,3.82,157,166,19,282,,,Kalenji JogFlow 500.1,,garmin
+2022-08-31,bieg,37.5,5.37,156,172,8,390,,,Kalenji JogFlow 500.1,,garmin
+2022-09-02,bieg,33.2,5.37,165,182,8,371,,,Kalenji JogFlow 500.1,,garmin
+2022-09-22,bieg,3.1,,75,81,,1,,,Kalenji JogFlow 500.1,,garmin
+2022-10-22,bieg,45.5,5.92,169,187,23,435,,,Kalenji JogFlow 500.1,,garmin
+2022-10-24,siłownia,26.9,,133,161,,206,,,,tytuł: Siła,garmin
+2023-01-08,bieg,44.7,5.57,152,169,64,394,,,Kalenji JogFlow 500.1,,garmin
+2023-01-28,bieg,39.8,4.54,163,187,16,366,,,,,garmin
+2023-04-11,bieg,60.8,2.97,117,173,10,336,,,Kalenji JogFlow 500.1,,garmin
+2023-04-21,bieg,9.4,0.91,145,172,7,87,,,Kalenji JogFlow 500.1,,garmin
+2023-04-21,bieg,31.2,3.31,149,170,40,250,,,Kalenji JogFlow 500.1,,garmin
+2023-04-23,bieg,9.0,1.19,149,180,,87,,,Kalenji JogFlow 500.1,tytuł: Warsaw - Benchmark Run,garmin
+2023-04-23,bieg,10.0,0.93,129,143,16,66,,,Kalenji JogFlow 500.1,,garmin
+2023-04-23,spacer,5.8,0.33,123,139,7,37,,,Kalenji JogFlow 500.1,,garmin
+2023-04-24,bieg,5.5,0.49,155,177,,57,,,Kalenji JogFlow 500.1,,garmin
+2023-04-24,spacer,12.1,0.75,118,132,7,73,,,Kalenji JogFlow 500.1,,garmin
+2023-04-26,spacer,9.7,0.52,106,124,2,44,,,Kalenji JogFlow 500.1,,garmin
+2023-04-26,spacer,9.0,0.59,105,115,5,44,,,Kalenji JogFlow 500.1,,garmin
+2023-04-27,bieg,4.9,0.39,158,174,,49,,,Kalenji JogFlow 500.1,,garmin
+2023-04-27,spacer,12.9,0.77,118,127,13,74,,,Kalenji JogFlow 500.1,,garmin
+2023-04-27,spacer,10.4,0.51,90,105,9,40,,,Kalenji JogFlow 500.1,,garmin
+2023-04-28,spacer,13.9,0.80,102,120,4,62,,,Kalenji JogFlow 500.1,,garmin
+2023-04-28,spacer,8.7,0.42,102,112,4,42,,,Kalenji JogFlow 500.1,,garmin
+2023-04-28,spacer,6.4,0.19,85,100,,21,,,Kalenji JogFlow 500.1,,garmin
+2023-04-28,spacer,17.6,0.85,90,109,,71,,,Kalenji JogFlow 500.1,,garmin
+2023-04-30,bieg,9.0,1.15,139,163,6,81,,,Kalenji JogFlow 500.1,tytuł: Warsaw - Benchmark Run,garmin
+2023-04-30,bieg,34.9,4.07,152,163,20,287,,,Kalenji JogFlow 500.1,,garmin
+2023-04-30,bieg,2.1,0.27,165,177,10,23,,,Kalenji JogFlow 500.1,,garmin
+2023-04-30,spacer,10.0,0.57,90,101,,39,,,Kalenji JogFlow 500.1,,garmin
+2023-04-30,spacer,8.3,0.44,106,121,7,40,,,Kalenji JogFlow 500.1,,garmin
+2023-05-01,spacer,18.9,1.06,102,117,6,78,,,Kalenji JogFlow 500.1,,garmin
+2023-05-01,spacer,6.8,0.38,120,133,,39,,,Kalenji JogFlow 500.1,,garmin
+2023-05-01,spacer,12.4,0.63,114,123,8,68,,,Kalenji JogFlow 500.1,,garmin
+2023-05-02,bieg,47.7,5.60,148,158,33,380,,,Kalenji JogFlow 500.1,,garmin
+2023-05-02,bieg,2.2,0.30,168,178,12,25,,,Kalenji JogFlow 500.1,,garmin
+2023-05-04,spacer,10.2,0.84,121,156,10,69,,,Kalenji JogFlow 500.1,,garmin
+2023-05-04,bieg,54.4,6.01,148,159,33,410,,,Kalenji JogFlow 500.1,,garmin
+2023-05-04,spacer,9.4,0.59,116,130,3,49,,,Kalenji JogFlow 500.1,,garmin
+2023-05-04,spacer,18.8,0.83,98,122,6,77,,,Kalenji JogFlow 500.1,,garmin
+2023-05-05,spacer,11.5,0.76,109,120,11,60,,,Kalenji JogFlow 500.1,,garmin
+2023-05-09,bieg,50.1,5.51,148,160,14,368,,,Kalenji JogFlow 500.1,,garmin
+2023-05-09,spacer,7.8,0.60,130,147,15,56,,,Kalenji JogFlow 500.1,,garmin
+2023-05-11,bieg,49.6,5.43,141,156,11,348,,,Kalenji JogFlow 500.1,,garmin
+2023-05-11,spacer,8.8,0.27,83,100,2,23,,,Kalenji JogFlow 500.1,,garmin
+2023-05-11,spacer,8.6,0.32,83,96,,23,,,Kalenji JogFlow 500.1,,garmin
+2023-05-13,bieg,52.6,6.01,138,158,35,394,,,Kalenji JogFlow 500.1,,garmin
+2023-05-16,spacer,10.2,0.69,103,143,5,49,,,Kalenji JogFlow 500.1,,garmin
+2023-05-16,spacer,13.3,0.83,107,122,16,71,,,Kalenji JogFlow 500.1,,garmin
+2023-05-19,spacer,10.7,0.49,98,114,2,42,,,Kalenji JogFlow 500.1,,garmin
+2023-05-19,spacer,10.0,0.49,92,104,2,41,,,Kalenji JogFlow 500.1,,garmin
+2023-05-21,bieg,78.0,8.01,144,161,13,511,,,Kalenji JogFlow 500.1,,garmin
+2023-05-22,spacer,11.9,0.69,97,115,6,53,,,Kalenji JogFlow 500.1,,garmin
+2023-05-22,spacer,19.2,1.30,109,124,7,92,,,Kalenji JogFlow 500.1,,garmin
+2023-05-22,spacer,7.2,0.20,94,111,,27,,,Kalenji JogFlow 500.1,,garmin
+2023-05-23,spacer,9.8,0.75,92,142,6,50,,,Kalenji JogFlow 500.1,,garmin
+2023-05-23,spacer,12.5,0.72,98,112,9,57,,,Kalenji JogFlow 500.1,,garmin
+2023-05-24,spacer,9.9,0.59,101,122,2,45,,,Kalenji JogFlow 500.1,,garmin
+2023-05-24,spacer,8.8,0.49,80,97,2,37,,,Kalenji JogFlow 500.1,,garmin
+2023-05-26,bieg,66.7,7.22,144,164,13,465,,,Kalenji JogFlow 500.1,,garmin
+2023-05-27,spacer,14.6,0.84,101,118,7,66,,,Kalenji JogFlow 500.1,,garmin
+2023-05-27,spacer,15.7,0.87,89,108,4,61,,,Kalenji JogFlow 500.1,,garmin
+2023-05-28,bieg,63.3,7.52,147,160,26,501,,,Kalenji JogFlow 500.1,,garmin
+2023-05-28,spacer,22.3,1.12,93,128,23,84,,,Kalenji JogFlow 500.1,,garmin
+2023-05-28,spacer,7.9,0.28,103,117,2,34,,,Kalenji JogFlow 500.1,,garmin
+2023-05-28,spacer,8.3,0.27,94,116,,33,,,Kalenji JogFlow 500.1,,garmin
+2023-05-28,spacer,12.6,0.56,100,114,6,52,,,Kalenji JogFlow 500.1,,garmin
+2023-05-29,spacer,6.7,0.42,89,99,2,25,,,Kalenji JogFlow 500.1,,garmin
+2023-05-29,spacer,8.6,0.44,87,97,2,29,,,Kalenji JogFlow 500.1,,garmin
+2023-05-30,bieg,64.3,7.50,146,173,26,493,,,Kalenji JogFlow 500.1,,garmin
+2023-05-30,spacer,5.8,0.29,114,126,4,31,,,Kalenji JogFlow 500.1,,garmin
+2023-05-30,spacer,12.7,0.12,94,104,,45,,,Kalenji JogFlow 500.1,,garmin
+2023-06-01,bieg,50.7,6.07,149,175,47,419,,,Kalenji JogFlow 500.1,,garmin
+2023-06-03,bieg,64.9,7.48,150,169,36,505,,,Kalenji JogFlow 500.1,,garmin
+2023-06-03,spacer,6.6,0.35,122,131,7,38,,,Kalenji JogFlow 500.1,,garmin
+2023-06-06,bieg,13.4,1.82,147,165,,125,,,Kalenji JogFlow 500.1,,garmin
+2023-06-06,bieg,5.0,0.73,169,199,23,53,,,Kalenji JogFlow 500.1,,garmin
+2023-06-06,spacer,21.0,1.62,125,139,18,115,,,Kalenji JogFlow 500.1,,garmin
+2023-06-08,bieg,55.2,7.54,163,178,56,564,,,Kalenji JogFlow 500.1,,garmin
+2023-06-10,bieg,25.1,3.47,151,163,18,247,,,Kalenji JogFlow 500.1,,garmin
+2023-06-12,spacer,7.7,0.52,95,107,2,36,,,Kalenji JogFlow 500.1,,garmin
+2023-06-15,bieg,40.5,5.66,161,185,11,400,,,Kalenji JogFlow 500.1,,garmin
+2023-06-15,spacer,11.1,0.71,106,122,6,64,,,Kalenji JogFlow 500.1,,garmin
+2023-06-15,spacer,6.2,0.36,105,113,,27,,,Kalenji JogFlow 500.1,,garmin
+2023-06-15,spacer,26.9,1.82,115,130,12,144,,,Kalenji JogFlow 500.1,,garmin
+2023-06-16,spacer,9.0,0.71,100,114,2,44,,,Kalenji JogFlow 500.1,,garmin
+2023-06-16,spacer,11.9,0.81,101,110,6,51,,,Kalenji JogFlow 500.1,,garmin
+2023-06-17,rower,22.5,5.86,132,148,2,166,,,Kross Evado 5.0,,garmin
+2023-06-17,rower,74.2,20.82,129,166,59,452,,,Kross Evado 5.0,,garmin
+2023-06-17,rower,51.8,12.77,134,166,36,360,,,Kross Evado 5.0,,garmin
+2023-06-19,spacer,14.3,0.58,80,94,2,46,,,Kalenji JogFlow 500.1,,garmin
+2023-06-19,spacer,12.8,0.51,79,90,2,40,,,Kalenji JogFlow 500.1,,garmin
+2023-06-20,bieg,49.6,6.91,157,180,23,469,,,Kalenji JogFlow 500.1,tytuł: Warsaw - Goal Pace Repeats,garmin
+2023-06-20,spacer,19.4,1.13,85,99,2,72,,,Kalenji JogFlow 500.1,,garmin
+2023-06-22,bieg,47.6,6.92,158,179,15,481,,,Kalenji JogFlow 500.1,tytuł: Warsaw - Goal Pace Repeats,garmin
+2023-06-22,spacer,5.2,0.37,121,136,2,29,,,Kalenji JogFlow 500.1,,garmin
+2023-06-22,spacer,10.4,0.56,84,101,,38,,,Kalenji JogFlow 500.1,,garmin
+2023-06-24,bieg,74.6,10.39,161,173,34,743,,,Kalenji JogFlow 500.1,,garmin
+2023-06-25,rower,23.5,2.25,93,110,8,77,,,Kross Evado 5.0,,garmin
+2023-06-25,rower,12.8,0.88,86,97,4,36,,,Kross Evado 5.0,,garmin
+2023-06-25,rower,19.9,1.44,96,114,9,71,,,Kross Evado 5.0,,garmin
+2023-06-25,rower,74.1,8.99,96,124,24,242,,,Kross Evado 5.0,,garmin
+2023-06-27,siłownia,3.6,,118,158,,23,,,,tytuł: Siła,garmin
+2023-06-28,bieg,40.1,5.90,170,182,42,430,,,Kalenji JogFlow 500.1,,garmin
+2023-06-28,spacer,8.2,0.43,137,156,11,61,,,Kalenji JogFlow 500.1,,garmin
+2023-06-29,spacer,5.1,0.30,71,97,,18,,,Kalenji JogFlow 500.1,,garmin
+2023-06-29,rower,49.8,10.71,124,162,31,286,,,Kross Evado 5.0,,garmin
+2023-06-29,rower,42.8,8.65,112,165,28,217,,,Kross Evado 5.0,,garmin
+2023-07-01,bieg,46.0,6.90,160,185,29,468,,,Kalenji JogFlow 500.1,tytuł: Warsaw - Goal Pace Repeats,garmin
+2023-07-04,bieg,44.5,6.79,168,185,30,479,,,Kalenji JogFlow 500.1,tytuł: Warsaw - Goal Pace Repeats,garmin
+2023-07-04,spacer,7.8,0.42,129,155,10,52,,,Kalenji JogFlow 500.1,,garmin
+2023-07-06,bieg,51.1,7.19,159,171,26,523,,,Kalenji JogFlow 500.1,,garmin
+2023-07-07,spacer,12.9,0.69,82,95,4,46,,,Kalenji JogFlow 500.1,,garmin
+2023-07-07,spacer,18.6,1.11,83,97,11,75,,,Kalenji JogFlow 500.1,,garmin
+2023-07-08,rower,70.0,20.73,146,176,115,562,,,Kross Evado 5.0,,garmin
+2023-07-08,rower,144.9,13.00,104,146,47,570,,,Kross Evado 5.0,,garmin
+2023-07-11,bieg,34.0,5.21,154,180,9,352,,,Kalenji JogFlow 500.1,tytuł: Warsaw - W01D2-Intervals,garmin
+2023-07-14,bieg,27.5,4.25,162,181,19,289,,,Kalenji JogFlow 500.1,tytuł: Warsaw - W01D4-Intervals,garmin
+2023-07-14,spacer,5.3,0.43,126,152,12,32,,,Kalenji JogFlow 500.1,,garmin
+2023-07-16,bieg,32.3,4.17,144,153,20,289,,,Kalenji JogFlow 500.1,tytuł: Serock - W01D7-Long Run,garmin
+2023-07-17,bieg,19.4,2.63,136,148,2,176,,,Kalenji JogFlow 500.1,tytuł: Warsaw - W02D1-Recovery Run,garmin
+2023-07-17,rower,23.9,4.11,110,133,24,118,,,Kross Evado 5.0,,garmin
+2023-07-18,bieg,32.6,4.82,159,178,27,339,,,Kalenji JogFlow 500.1,tytuł: Warsaw - W02D2-Intervals,garmin
+2023-07-19,rower,23.6,4.42,103,141,29,104,,,Kross Evado 5.0,,garmin
+2023-07-20,bieg,31.6,4.71,156,179,12,324,,,Kalenji JogFlow 500.1,tytuł: Warsaw - W02D4-Intervals,garmin
+2023-07-23,bieg,43.3,5.74,147,161,31,408,,,Kalenji JogFlow 500.1,tytuł: Warsaw - W02D7-Long Run,garmin
+2023-07-24,bieg,22.7,2.94,131,140,6,199,,,Kalenji JogFlow 500.1,tytuł: Warsaw - W03D1-Recovery Run,garmin
+2023-07-25,bieg,38.2,5.72,157,178,21,409,,,Kalenji JogFlow 500.1,tytuł: Warsaw - W03D2-Intervals,garmin
+2023-07-27,bieg,36.2,5.41,155,176,14,377,,,Kalenji JogFlow 500.1,tytuł: Warsaw - W03D4-Intervals,garmin
+2023-07-27,rower,109.3,29.58,115,164,77,545,,,Kross Evado 5.0,,garmin
+2023-08-03,rower,25.2,3.57,145,150,11,197,,,Kross Evado 5.0,,garmin
+2023-08-03,rower,23.3,6.78,109,149,15,121,,,Kross Evado 5.0,,garmin
+2023-08-06,bieg,40.2,5.40,163,178,38,402,,,Kalenji JogFlow 500.1,tytuł: Siedlce (Gmina) - W03D7-Long Run,garmin
+2023-08-07,bieg,27.4,3.25,130,147,9,215,,,Kalenji JogFlow 500.1,tytuł: Warsaw - W04D1-Recovery Run,garmin
+2023-08-08,bieg,45.7,6.62,152,177,48,460,,,Kalenji JogFlow 500.1,tytuł: Warsaw - W04D2-Intervals,garmin
+2023-08-10,bieg,44.1,6.61,159,182,24,459,,,Kalenji JogFlow 500.1,tytuł: Warsaw - W04D4-Intervals,garmin
+2023-08-27,bieg,45.9,6.19,161,180,20,443,,,Kalenji JogFlow 500.1,,garmin
+2023-08-29,bieg,42.2,6.20,159,176,21,440,,,Kalenji JogFlow 500.1,,garmin
+2023-09-08,rower,179.5,56.45,161,199,454,1638,,,Kross Evado 5.0,,garmin
+2023-09-09,rower,211.2,67.25,151,185,487,1817,,,Kross Evado 5.0,,garmin
+2023-09-10,rower,177.9,53.06,150,187,404,1516,,,Kross Evado 5.0,,garmin
+2023-09-18,bieg,36.4,5.56,158,178,58,396,,,Kalenji JogFlow 500.1,,garmin
+2023-09-20,bieg,28.7,4.20,148,163,27,293,,,Kalenji JogFlow 500.1,,garmin
+2023-09-26,bieg,27.4,4.51,165,192,54,312,,,Kalenji JogFlow 500.1,,garmin
+2023-10-09,bieg,35.5,5.73,163,178,94,406,,,Kalenji JogFlow 500.1,,garmin
+2023-10-28,bieg,38.8,5.89,166,182,105,435,,,Kalenji JogFlow 500.1,,garmin
+2023-11-05,bieg,41.5,5.49,153,169,115,411,,,Kalenji JogFlow 500.1,,garmin
+2023-11-13,bieg,37.8,5.70,158,181,122,415,,,Kalenji JogFlow 500.1,,garmin
+2024-02-18,bieg,16.7,2.41,153,183,93,177,,,Kalenji JogFlow 500.1,,garmin
+2024-02-29,bieg,17.1,2.83,170,192,204,210,,,Kalenji JogFlow 500.1,,garmin
+2024-03-04,bieg,27.6,3.21,147,161,134,250,,,Kalenji JogFlow 500.1,tytuł: Warsaw - W01D1-Easy Run,garmin
+2024-03-18,bieg,28.9,3.21,146,168,218,258,,,Kalenji JogFlow 500.1,tytuł: Warsaw - W01D1-Easy Run,garmin
+2024-03-19,bieg,29.5,3.33,151,175,214,267,,,Kalenji JogFlow 500.1,tytuł: Warsaw - W01D2-Intervals,garmin
+2024-03-21,bieg,33.0,4.28,151,174,172,327,,,Kalenji JogFlow 500.1,tytuł: Warsaw - W01D4-Intervals,garmin
+2024-03-23,bieg,37.5,4.37,141,156,69,315,,,Kalenji JogFlow 500.1,tytuł: Warsaw - W01D7-Long Run,garmin
+2024-03-25,bieg,25.7,2.95,142,158,107,222,,,Kalenji JogFlow 500.1,tytuł: Warsaw - W02D1-Recovery Run,garmin
+2024-03-26,bieg,29.0,4.25,110,150,112,271,,,Kalenji JogFlow 500.1,tytuł: Warsaw - W02D2-Intervals,garmin
+2024-03-28,bieg,33.1,4.54,156,180,220,349,,,Kalenji JogFlow 500.1,tytuł: Warsaw - W02D4-Intervals,garmin
+2024-03-30,bieg,41.4,5.26,148,163,80,398,,,Kalenji JogFlow 500.1,tytuł: Warsaw - W02D7-Long Run,garmin
+2024-04-01,bieg,24.3,3.07,140,152,74,221,,,Kalenji JogFlow 500.1,tytuł: Siedlce (Gmina) - W03D1-Recovery Run,garmin
+2024-04-02,bieg,36.1,5.26,160,179,152,417,,,Kalenji JogFlow 500.1,tytuł: Siedlce (Gmina) - W03D2-Intervals,garmin
+2024-04-04,bieg,33.4,4.91,160,179,76,380,,,Kalenji JogFlow 500.1,tytuł: Warsaw - W03D4-Intervals,garmin
+2024-04-09,bieg,42.5,6.16,158,182,100,485,,,Kalenji JogFlow 500.1,tytuł: Warsaw - W04D2-Intervals,garmin
+2024-04-11,bieg,40.4,5.96,158,179,173,462,,,Kalenji JogFlow 500.1,tytuł: Warsaw - W04D4-Intervals,garmin
+2024-04-13,bieg,55.8,7.09,144,154,59,497,,,Kalenji JogFlow 500.1,tytuł: Warsaw - W04D7-Long Run,garmin
+2024-04-15,bieg,32.9,4.28,142,153,106,317,,,Kalenji JogFlow 500.1,tytuł: Warsaw - W05D1-Recovery Run,garmin
+2024-04-17,bieg,47.5,6.80,157,182,342,536,,,Kalenji JogFlow 500.1,tytuł: Warsaw - W05D2-Intervals,garmin
+2024-04-19,bieg,38.7,5.72,161,183,303,448,,,Kalenji JogFlow 500.1,tytuł: Warsaw - W05D4-Intervals,garmin
+2024-04-21,bieg,62.9,8.40,146,157,344,622,,,Kalenji JogFlow 500.1,tytuł: Warsaw - W05D7-Long Run,garmin
+2024-04-23,bieg,33.5,4.24,139,154,168,310,,,Kalenji JogFlow 500.1,tytuł: Warsaw - W06D2-Recovery Run,garmin
+2024-04-29,bieg,36.7,4.92,144,161,62,361,,,Kalenji JogFlow 500.1,tytuł: Warsaw - W06D2-Recovery Run,garmin
+2024-05-03,bieg,39.4,5.58,148,169,74,412,,,Kalenji JogFlow 500.1,tytuł: Warsaw - W06D4-Recovery Run,garmin
+2024-05-05,bieg,33.2,4.55,147,161,108,338,,,Kalenji JogFlow 500.1,tytuł: Siedlce (Gmina) - W06D7-Recovery Run,garmin
+2024-05-06,bieg,33.4,4.30,134,145,121,302,,,Kalenji JogFlow 500.1,tytuł: Warsaw - W07D1-Recovery Run,garmin
+2024-05-07,bieg,30.5,4.69,158,185,190,354,,,Kalenji JogFlow 500.1,tytuł: Warsaw - W07D2-Intervals,garmin
+2024-05-09,bieg,41.7,6.42,158,174,200,485,,,Diadora Equipe Nucleo,tytuł: Warsaw - W07D4-Intervals,garmin
+2024-05-10,wędrówka,197.3,8.42,129,170,1225,1254,,,DynaSoft Nitrel v5 GORE-TEX Black 1,,garmin
+2024-05-10,wędrówka,290.7,8.78,121,183,846,1558,,,DynaSoft Nitrel v5 GORE-TEX Black 1,,garmin
+2024-05-10,wędrówka,44.7,2.51,100,125,61,194,,,DynaSoft Nitrel v5 GORE-TEX Black 1,,garmin
+2024-05-11,wędrówka,376.8,17.37,108,174,1337,1812,,,DynaSoft Nitrel v5 GORE-TEX Black 1,,garmin
+2024-05-14,bieg,38.5,5.97,160,182,126,457,,,Diadora Equipe Nucleo,tytuł: Warsaw - W08D2-Intervals,garmin
+2024-05-15,siłownia,28.9,,108,142,,158,,,,tytuł: Siła,garmin
+2024-05-16,bieg,46.5,6.98,158,177,185,532,,,Diadora Equipe Nucleo,tytuł: Warsaw - W08D4-Intervals,garmin
+2024-05-18,bieg,90.0,11.39,145,155,290,815,,,Diadora Equipe Nucleo,tytuł: Warsaw - W08D7-Long Run,garmin
+2024-05-18,rower,28.6,3.21,99,124,34,126,,,Kross Evado 5.0,,garmin
+2024-05-18,rower,18.5,1.66,103,127,41,93,,,Kross Evado 5.0,,garmin
+2024-05-18,rower,21.6,3.20,89,111,35,74,,,Kross Evado 5.0,,garmin
+2024-05-19,rower,139.8,2.86,90,118,30,48,,,Kross Evado 5.0,,garmin
+2024-05-20,bieg,31.4,4.00,134,144,75,283,,,Diadora Equipe Nucleo,tytuł: Warsaw - W09D1-Recovery Run,garmin
+2024-05-21,bieg,41.6,6.33,162,187,156,494,,,Diadora Equipe Nucleo,tytuł: Warsaw - W09D2-Intervals,garmin
+2024-05-23,bieg,45.2,6.52,159,179,91,508,,,Diadora Equipe Nucleo,tytuł: Warsaw - W09D4-Threshold Run,garmin
+2024-05-25,bieg,73.2,10.47,155,181,331,803,,,Diadora Equipe Nucleo,,garmin
+2024-05-27,bieg,20.5,2.79,136,149,122,202,,,Diadora Equipe Nucleo,tytuł: Warsaw - W10D1-Recovery Run,garmin
+2024-05-28,bieg,47.3,7.39,160,184,257,556,,,Diadora Equipe Nucleo,tytuł: Warsaw - W10D2-Intervals,garmin
+2024-05-30,bieg,60.8,9.28,160,180,201,722,,,Diadora Equipe Nucleo,tytuł: Sorkwity - W10D4-Threshold Run,garmin
+2024-06-03,bieg,61.3,9.01,151,176,183,668,,,Diadora Equipe Nucleo,tytuł: Warsaw - W10D7-Long Run,garmin
+2024-06-04,bieg,44.0,6.37,152,178,145,484,,,Diadora Equipe Nucleo,tytuł: Warsaw - W11D2-Intervals,garmin
+2024-06-06,bieg,43.9,6.99,160,175,58,522,,,Diadora Equipe Nucleo,tytuł: Warsaw - W11D4-Threshold Run,garmin
+2024-06-08,bieg,49.8,7.03,146,158,184,527,,,Diadora Equipe Nucleo,tytuł: Warsaw - W11D7-Long Run,garmin
+2024-06-08,rower,25.3,3.01,101,119,263,118,,,Kross Evado 5.0,,garmin
+2024-06-11,bieg,34.2,5.30,155,185,125,390,,,Diadora Equipe Nucleo,tytuł: Warsaw - W12D2-Intervals,garmin
+2024-06-13,bieg,36.3,4.96,138,150,162,363,,,Diadora Equipe Nucleo,tytuł: Warsaw - W12D4-Recovery Run,garmin
+2024-06-16,bieg,13.3,1.68,140,154,123,126,,,Diadora Equipe Nucleo,,garmin
+2024-06-16,bieg,26.7,5.03,183,198,387,382,,,Diadora Equipe Nucleo,tytuł: Warsaw - W12D7-5K Race,garmin
+2024-06-23,rower,64.2,5.57,99,150,541,270,,,Kross Evado 5.0,,garmin
+2024-06-23,rower,41.6,3.47,86,108,86,131,,,Kross Evado 5.0,,garmin
+2024-06-24,bieg,39.7,5.49,143,157,568,412,,,Diadora Equipe Nucleo,,garmin
+2024-06-26,rower,68.2,21.59,151,185,1319,698,,,Kross Evado 5.0,,garmin
+2024-06-26,rower,14.4,1.08,96,114,81,62,,,Kross Evado 5.0,,garmin
+2024-06-28,bieg,44.2,6.27,150,168,224,473,,,Diadora Equipe Nucleo,,garmin
+2024-06-29,rower,41.3,8.63,121,146,1467,278,,,Kross Evado 5.0,,garmin
+2024-06-29,rower,30.6,3.70,92,116,130,114,,,Kross Evado 5.0,,garmin
+2024-06-29,rower,37.1,6.97,105,129,386,184,,,Kross Evado 5.0,,garmin
+2024-06-30,bieg,9.0,1.66,163,186,129,116,,,Diadora Equipe Nucleo,tytuł: Warsaw - Benchmark Run,garmin
+2024-07-02,bieg,65.7,9.18,150,189,1256,666,,,Diadora Equipe Nucleo,tytuł: Warsaw - Goal Pace Repeats,garmin
+2024-07-02,rower,24.8,5.86,132,160,727,221,,,Kross Evado 5.0,,garmin
+2024-07-04,bieg,29.6,3.85,140,161,623,297,,,Diadora Equipe Nucleo,tytuł: Warsaw - Hill Repeats,garmin
+2024-07-05,rower,7.0,1.56,89,112,138,26,,,Kross Evado 5.0,,garmin
+2024-07-05,rower,8.5,2.30,94,120,88,36,,,Kross Evado 5.0,,garmin
+2024-07-07,bieg,59.2,8.51,156,193,679,659,,,Diadora Equipe Nucleo,tytuł: Mirsk - Speed Repeats,garmin
+2024-07-09,bieg,89.2,12.47,153,169,681,963,,,Diadora Equipe Nucleo,tytuł: Mirsk - Long Easy Run,garmin
+2024-07-09,wędrówka,66.3,3.40,121,150,450,437,,,DynaSoft Nitrel v5 GORE-TEX Black 1,,garmin
+2024-07-11,bieg,25.4,3.17,134,166,71,234,,,Diadora Equipe Nucleo,tytuł: Mirsk - Hill Repeats,garmin
+2024-07-14,bieg,74.1,10.89,161,192,636,833,,,Diadora Equipe Nucleo,tytuł: Warsaw - Speed Repeats,garmin
+2024-07-16,bieg,77.3,11.06,161,190,747,865,,,Diadora Equipe Nucleo,tytuł: Siedlce (Gmina) - Goal Pace Repeats in the drying room,garmin
+2024-07-17,bieg,29.3,3.95,141,160,446,294,,,Diadora Equipe Nucleo,tytuł: Warsaw - Hill Repeats,garmin
+2024-07-22,bieg,72.6,10.53,158,193,1151,810,,,Diadora Equipe Nucleo,tytuł: Warsaw - Speed Repeats,garmin
+2024-07-24,bieg,29.8,3.93,152,177,404,338,,,Diadora Equipe Nucleo,tytuł: Warsaw - Hill Repeats,garmin
+2024-07-26,bieg,114.4,16.75,160,173,1152,1326,,,Diadora Equipe Nucleo,tytuł: Warsaw - Long Easy Run,garmin
+2024-07-27,rower,78.0,5.92,96,133,299,309,,,Kross Evado 5.0,,garmin
+2024-07-27,rower,80.6,4.49,92,130,116,293,,,Kross Evado 5.0,,garmin
+2024-07-30,bieg,78.3,11.52,152,187,911,853,,,Diadora Equipe Nucleo,tytuł: Warsaw - Goal Pace Repeats,garmin
+2024-07-31,rower,98.8,24.93,116,170,1239,614,,,Kross Evado 5.0,,garmin
+2024-08-01,bieg,31.1,4.24,147,173,668,347,,,Diadora Equipe Nucleo,tytuł: Warsaw - Hill Repeats,garmin
+2024-08-03,bieg,86.6,12.87,159,191,580,991,,,Diadora Equipe Nucleo,tytuł: Warsaw - Speed Repeats,garmin
+2024-08-04,rower,13.2,2.27,101,126,146,69,,,Kross Evado 5.0,,garmin
+2024-08-04,rower,18.6,2.91,87,110,87,65,,,Kross Evado 5.0,,garmin
+2024-08-06,bieg,137.8,20.05,150,161,1054,1497,,,Diadora Equipe Nucleo,tytuł: Warsaw - Long Easy Run,garmin
+2024-08-08,bieg,32.5,4.17,145,174,236,345,,,Diadora Equipe Nucleo,tytuł: Warsaw - Hill Repeats,garmin
+2024-08-10,bieg,102.4,14.71,165,193,2057,1223,,,Diadora Equipe Nucleo,tytuł: Warsaw - Speed Repeats,garmin
+2024-08-11,rower,54.5,10.09,91,118,993,203,,,Kross Evado 5.0,,garmin
+2024-08-11,rower,64.1,7.22,90,135,619,229,,,Kross Evado 5.0,,garmin
+2024-08-11,rower,25.2,3.60,103,133,217,131,,,Kross Evado 5.0,,garmin
+2024-08-12,rower,16.4,4.67,103,135,346,93,,,Kross Evado 5.0,,garmin
+2024-08-12,rower,15.9,3.64,113,152,334,110,,,Kross Evado 5.0,,garmin
+2024-08-18,bieg,8.7,1.36,141,159,24,97,,,Diadora Equipe Nucleo,,garmin
+2024-08-18,bieg,36.0,5.90,167,187,110,467,,,Diadora Equipe Nucleo,,garmin
+2024-08-19,rower,17.8,3.14,88,133,112,65,,,Kross Evado 5.0,,garmin
+2024-08-20,bieg,82.3,11.59,152,186,669,877,,,Diadora Equipe Nucleo,tytuł: Warsaw - Goal Pace Repeats,garmin
+2024-08-21,rower,75.8,10.00,80,136,367,199,,,Kross Evado 5.0,,garmin
+2024-08-21,rower,15.9,3.42,98,128,40,78,,,Kross Evado 5.0,,garmin
+2024-08-22,bieg,33.0,4.11,139,164,293,341,,,Diadora Equipe Nucleo,tytuł: Warsaw - Hill Repeats,garmin
+2024-08-26,bieg,9.0,1.69,164,189,199,125,,,Diadora Equipe Nucleo,tytuł: Warsaw - Benchmark Run,garmin
+2024-08-27,bieg,41.6,6.75,160,175,337,527,,,Diadora Equipe Nucleo,tytuł: Warsaw - Easy Run,garmin
+2024-08-27,rower,20.3,3.31,98,120,206,96,,,Kross Evado 5.0,,garmin
+2024-08-29,bieg,32.4,4.63,141,160,166,343,,,Diadora Equipe Nucleo,tytuł: Warsaw - Stride Repeats,garmin
+2024-08-29,rower,14.7,3.32,109,145,89,93,,,Kross Evado 5.0,,garmin
+2024-08-29,rower,6.0,1.45,113,139,108,43,,,Kross Evado 5.0,,garmin
+2024-08-29,rower,32.9,5.76,98,124,803,147,,,Kross Evado 5.0,,garmin
+2024-08-31,bieg,70.3,11.11,163,179,779,886,,,Diadora Equipe Nucleo,tytuł: Warsaw - Long Easy Run,garmin
+2024-09-02,bieg,46.0,7.23,150,166,286,547,,,Diadora Equipe Nucleo,tytuł: Warsaw - Easy Run,garmin
+2024-09-03,bieg,48.5,7.31,151,184,524,550,,,Diadora Equipe Nucleo,tytuł: Warsaw - Speed Repeats,garmin
+2024-09-04,rower,30.7,8.14,130,175,688,274,,,Kross Evado 5.0,,garmin
+2024-09-05,bieg,45.5,7.05,152,165,233,546,,,Diadora Equipe Nucleo,tytuł: Warsaw - Easy Run,garmin
+2024-09-07,bieg,53.7,8.05,163,187,1137,661,,,Diadora Equipe Nucleo,tytuł: Warsaw - Goal Pace Repeats,garmin
+2024-09-09,bieg,35.7,5.42,150,164,512,426,,,Diadora Equipe Nucleo,tytuł: Warsaw - Easy Run,garmin
+2024-09-10,bieg,50.5,8.06,155,177,72,616,,,Diadora Equipe Nucleo,tytuł: Warsaw - Progression Run,garmin
+2024-09-12,bieg,41.6,5.89,142,163,391,449,,,Diadora Equipe Nucleo,tytuł: Warsaw - Stride Repeats,garmin
+2024-09-14,bieg,80.0,12.37,160,174,807,980,,,Diadora Equipe Nucleo,tytuł: Warsaw - Long Easy Run,garmin
+2024-09-29,bieg,37.2,5.30,153,167,509,431,,,Diadora Equipe Nucleo,,garmin
+2024-10-01,bieg,44.1,6.96,166,179,782,565,,,Diadora Equipe Nucleo,,garmin
+2024-10-05,bieg,55.7,9.99,191,205,275,826,,,Diadora Equipe Nucleo,tytuł: Warsaw - Biegnij Warszawo,garmin
+2024-10-14,siłownia,80.3,,128,167,,606,,,,tytuł: Siła,garmin
+2024-10-14,bieg,7.3,1.09,160,172,,94,,,Diadora Equipe Nucleo,Treadmill Running,garmin
+2024-10-16,bieg,7.7,0.63,129,155,,71,,,Diadora Equipe Nucleo,Treadmill Running,garmin
+2024-10-16,siłownia,58.9,,124,164,,421,,,,tytuł: Siła,garmin
+2024-10-16,bieg,5.7,0.72,149,163,,69,,,Diadora Equipe Nucleo,Treadmill Running,garmin
+2024-10-19,rower,174.8,46.32,148,188,3981,1733,,,Kross Evado 5.0,,garmin
+2024-10-21,bieg,7.1,0.72,134,152,,71,,,Diadora Equipe Nucleo,Treadmill Running,garmin
+2024-10-21,siłownia,91.0,,110,160,,490,,,,tytuł: Siła,garmin
+2024-10-23,bieg,5.1,0.54,123,155,,44,,,Diadora Equipe Nucleo,Treadmill Running,garmin
+2024-10-23,siłownia,62.5,,124,160,,442,,,,tytuł: Siła,garmin
+2024-10-23,bieg,6.6,0.66,148,167,,78,,,Diadora Equipe Nucleo,Treadmill Running,garmin
+2024-10-25,bieg,5.2,0.57,117,154,,41,,,Diadora Equipe Nucleo,Treadmill Running,garmin
+2024-10-25,siłownia,56.8,,137,174,,516,,,,tytuł: Siła,garmin
+2024-10-25,bieg,5.4,0.73,160,170,,71,,,Diadora Equipe Nucleo,Treadmill Running,garmin
+2024-10-28,bieg,5.3,0.65,136,159,,56,,,Diadora Equipe Nucleo,Treadmill Running,garmin
+2024-10-28,siłownia,67.9,,136,174,,594,,,,tytuł: Siła,garmin
+2024-10-28,bieg,5.6,0.77,160,170,,73,,,Diadora Equipe Nucleo,Treadmill Running,garmin
+2024-10-30,bieg,6.7,0.75,140,160,,73,,,Diadora Equipe Nucleo,Treadmill Running,garmin
+2024-10-30,siłownia,62.5,,126,173,,459,,,,tytuł: Siła,garmin
+2024-10-30,bieg,5.6,0.79,158,169,,72,,,Diadora Equipe Nucleo,Treadmill Running,garmin
+2024-11-01,bieg,5.2,0.66,136,154,,54,,,Diadora Equipe Nucleo,Treadmill Running,garmin
+2024-11-01,siłownia,50.9,,143,175,,504,,,,tytuł: Siła,garmin
+2024-11-01,bieg,5.7,0.74,161,171,,75,,,Diadora Equipe Nucleo,Treadmill Running,garmin
+2024-11-04,bieg,6.4,0.74,143,156,,74,,,Diadora Equipe Nucleo,Treadmill Running,garmin
+2024-11-04,siłownia,71.8,,133,167,,605,,,,tytuł: Siła,garmin
+2024-11-06,bieg,5.1,0.71,146,159,,62,,,Diadora Equipe Nucleo,Treadmill Running,garmin
+2024-11-06,siłownia,58.6,,129,185,,473,,,,tytuł: Siła,garmin
+2024-11-06,bieg,5.9,0.75,157,169,,76,,,Diadora Equipe Nucleo,Treadmill Running,garmin
+2024-11-08,bieg,5.3,0.71,144,160,,62,,,Diadora Equipe Nucleo,Treadmill Running,garmin
+2024-11-08,siłownia,54.4,,139,171,,524,,,,tytuł: Siła,garmin
+2024-11-08,bieg,5.6,0.71,159,167,,74,,,Diadora Equipe Nucleo,Treadmill Running,garmin
+2024-11-11,bieg,6.9,0.75,131,155,,69,,,Diadora Equipe Nucleo,Treadmill Running,garmin
+2024-11-11,siłownia,85.3,,118,166,,525,,,,tytuł: Siła,garmin
+2024-11-11,bieg,6.4,0.89,154,170,,81,,,Diadora Equipe Nucleo,Treadmill Running,garmin
+2024-11-13,bieg,5.9,0.71,150,163,,74,,,Diadora Equipe Nucleo,Treadmill Running,garmin
+2024-11-13,siłownia,78.3,,130,173,,592,,,,tytuł: Siła,garmin
+2024-11-13,bieg,5.3,0.79,159,171,,71,,,Diadora Equipe Nucleo,Treadmill Running,garmin
+2024-11-15,siłownia,66.1,,135,170,,572,,,,tytuł: Siła,garmin
+2024-11-22,siłownia,64.5,,140,181,,609,,,,tytuł: Siła,garmin
+2024-11-25,bieg,5.8,0.58,128,149,,56,,,Diadora Equipe Nucleo,Treadmill Running,garmin
+2024-11-25,siłownia,71.8,,135,165,,592,,,,tytuł: Siła,garmin
+2024-11-25,bieg,5.1,0.68,156,173,,66,,,Diadora Equipe Nucleo,Treadmill Running,garmin
+2024-11-27,siłownia,68.3,,133,168,,585,,,,tytuł: Siła,garmin
+2024-11-27,bieg,5.6,0.65,152,169,,70,,,Diadora Equipe Nucleo,Treadmill Running,garmin
+2024-11-29,siłownia,69.1,,144,172,,654,,,,tytuł: Siła,garmin
+2024-11-29,bieg,5.1,0.67,152,163,,64,,,Diadora Equipe Nucleo,Treadmill Running,garmin
+2024-12-02,siłownia,62.0,,122,156,,436,,,,tytuł: Siła,garmin
+2024-12-02,bieg,5.0,0.65,147,160,,61,,,Diadora Equipe Nucleo,Treadmill Running,garmin
+2024-12-04,siłownia,63.4,,130,167,,515,,,,tytuł: Siła,garmin
+2024-12-04,bieg,10.4,1.36,156,166,,138,,,Diadora Equipe Nucleo,Treadmill Running,garmin
+2024-12-06,siłownia,64.6,,136,166,,581,,,,tytuł: Siła,garmin
+2024-12-09,siłownia,64.3,,131,177,,527,,,,tytuł: Siła,garmin
+2024-12-09,bieg,5.1,0.75,158,171,,67,,,Diadora Equipe Nucleo,Treadmill Running,garmin
+2024-12-11,siłownia,71.6,,129,168,,559,,,,tytuł: Siła,garmin
+2024-12-13,siłownia,68.6,,129,171,,517,,,,tytuł: Siła,garmin
+2024-12-13,bieg,5.5,0.72,155,167,,72,,,Diadora Equipe Nucleo,Treadmill Running,garmin
+2024-12-16,siłownia,65.8,,126,153,,487,,,,tytuł: Siła,garmin
+2024-12-16,bieg,5.1,0.71,154,167,,66,,,Diadora Equipe Nucleo,Treadmill Running,garmin
+2024-12-18,siłownia,73.5,,131,160,,598,,,,tytuł: Siła,garmin
+2024-12-20,siłownia,58.3,,125,169,,433,,,,tytuł: Siła,garmin
+2024-12-23,siłownia,40.3,,111,158,,252,,,,tytuł: Siła,garmin
+2024-12-23,bieg,15.0,2.05,156,166,,200,,,Diadora Equipe Nucleo,Treadmill Running,garmin
+2024-12-26,bieg,31.4,4.41,160,171,234,392,,,Diadora Equipe Nucleo,,garmin
+2024-12-27,siłownia,59.3,,126,164,,451,,,,tytuł: Siła,garmin
+2024-12-30,siłownia,70.3,,130,154,,565,,,,tytuł: Siła,garmin
+2024-12-30,bieg,5.1,0.65,154,167,,67,,,Diadora Equipe Nucleo,Treadmill Running,garmin
+2025-01-03,siłownia,81.9,,122,157,,570,,,,tytuł: Siła,garmin
+2025-01-03,bieg,5.1,0.65,156,167,,68,,,Diadora Equipe Nucleo,Treadmill Running,garmin
+2025-01-06,siłownia,83.9,,124,166,,581,,,,tytuł: Siła,garmin
+2025-01-06,bieg,5.3,0.78,152,163,,69,,,Diadora Equipe Nucleo,Treadmill Running,garmin
+2025-01-07,bieg,32.0,4.00,154,170,,394,,,Diadora Equipe Nucleo,tytuł: W01D2-Easy Run,garmin
+2025-01-08,siłownia,78.5,,121,157,,508,,,,tytuł: Siła,garmin
+2025-01-10,siłownia,57.3,,136,176,,486,,,,tytuł: Siła,garmin
+2025-01-13,siłownia,69.3,,124,165,,499,,,,tytuł: Siła,garmin
+2025-01-13,bieg,5.9,0.66,155,169,,77,,,Diadora Equipe Nucleo,Treadmill Running,garmin
+2025-01-15,siłownia,69.9,,131,168,,538,,,,tytuł: Siła,garmin
+2025-01-15,bieg,6.0,0.70,159,169,,79,,,Diadora Equipe Nucleo,Treadmill Running,garmin
+2025-01-17,siłownia,43.2,,125,162,,319,,,,tytuł: Siła,garmin
+2025-01-17,bieg,13.4,1.46,157,175,,170,,,Diadora Equipe Nucleo,Treadmill Running,garmin
+2025-01-20,bieg,35.0,4.85,150,166,,405,,,Diadora Equipe Nucleo,Treadmill Running,garmin
+2025-01-22,bieg,35.1,4.64,152,165,,429,,,Diadora Equipe Nucleo,Treadmill Running,garmin
+2025-01-24,bieg,30.0,3.90,159,172,,390,,,Diadora Equipe Nucleo,Treadmill Running,garmin
+2025-01-27,siłownia,69.8,,133,167,,554,,,,tytuł: Siła,garmin
+2025-01-27,bieg,5.1,0.66,155,165,,65,,,Diadora Equipe Nucleo,Treadmill Running,garmin
+2025-01-28,bieg,35.1,4.61,153,170,,424,,,Diadora Equipe Nucleo,tytuł: W01D2-Easy Run,garmin
+2025-01-29,siłownia,71.2,,132,177,,573,69.1,,,TE 2.4,garmin
+2025-01-31,siłownia,66.9,,135,171,,545,65.5,,,TE 2.6,garmin
+2025-01-31,bieg,5.2,0.68,161,168,,70,21.4,1,Diadora Equipe Nucleo,Treadmill Running; TE 2,garmin
+2025-02-01,bieg,41.6,6.49,165,185,12,542,118.8,5,Diadora Equipe Nucleo,tytuł: Warsaw - Base; TE 3.7,garmin
+2025-02-04,siłownia,25.4,,107,130,,142,5.5,,,TE 0.5,garmin
+2025-02-04,narty,57.7,1.50,125,160,160,415,29.2,,,Resort Snowboarding; tytuł: Zieleniec Snowboard; TE 2.1,garmin
+2025-02-04,narty,19.3,0.78,101,140,,89,9.4,,,Resort Snowboarding; tytuł: Zieleniec Snowboard; TE 0.9,garmin
+2025-02-05,narty,2.5,0.43,139,154,,28,16.3,,,Resort Snowboarding; tytuł: Zieleniec Snowboard; TE 1.3,garmin
+2025-02-05,narty,7.3,0.52,127,143,11,65,17.1,,,Resort Snowboarding; tytuł: Zieleniec Snowboard; TE 1.5,garmin
+2025-02-06,narty,13.1,3.62,145,162,,144,32.4,,,Resort Snowboarding; tytuł: Zieleniec Snowboard; TE 2.1,garmin
+2025-02-06,narty,7.9,1.36,123,146,10,64,10.1,,,Resort Snowboarding; tytuł: Zieleniec Snowboard; TE 0.9,garmin
+2025-02-07,narty,18.2,4.10,120,144,1,131,10.0,,,Resort Snowboarding; tytuł: Zieleniec Snowboard; TE 0.8,garmin
+2025-02-07,narty,19.5,3.38,117,145,11,138,8.8,,,Resort Snowboarding; tytuł: Zieleniec Snowboard; TE 0.8,garmin
+2025-02-10,siłownia,62.3,,125,163,,455,42.0,,,TE 2.1,garmin
+2025-02-10,bieg,5.0,0.70,151,165,,62,18.3,1,Diadora Equipe Nucleo,Treadmill Running; TE 1.8,garmin
+2025-02-14,siłownia,64.0,,139,170,,573,65.9,,,TE 2.8,garmin
+2025-02-17,siłownia,68.5,,129,166,,508,41.5,,,TE 2.2,garmin
+2025-02-17,bieg,5.0,0.72,153,165,,64,22.0,1,Diadora Equipe Nucleo,Treadmill Running; TE 2,garmin
+2025-02-19,siłownia,64.5,,134,163,,546,60.5,,,TE 2.6,garmin
+2025-02-19,bieg,5.0,0.72,160,170,,67,20.7,2,Diadora Equipe Nucleo,Treadmill Running; TE 2,garmin
+2025-02-21,siłownia,67.8,,142,174,,613,88.4,,,TE 3.1,garmin
+2025-02-21,bieg,5.0,0.68,162,172,,68,22.9,3,Diadora Equipe Nucleo,Treadmill Running; TE 2,garmin
+2025-02-22,bieg,46.1,6.12,154,164,,567,90.8,3,Diadora Equipe Nucleo,Treadmill Running; tytuł: Base; TE 3.4,garmin
+2025-02-24,siłownia,62.5,,122,165,,430,29.3,,,TE 2,garmin
+2025-02-24,bieg,5.0,0.67,148,159,,61,16.6,2,Diadora Equipe Nucleo,Treadmill Running; TE 1.6,garmin
+2025-02-26,siłownia,68.5,,136,162,,575,66.4,,,TE 2.7,garmin
+2025-02-26,bieg,5.1,0.71,160,171,,67,24.6,2,Diadora Equipe Nucleo,Treadmill Running; TE 2.1,garmin
+2025-02-28,bieg,40.0,5.51,160,175,,510,117.5,3,Diadora Equipe Nucleo,Treadmill Running; TE 3.9,garmin
+2025-03-03,siłownia,65.7,,128,164,,484,39.7,,,TE 2.3,garmin
+2025-03-03,bieg,5.0,0.71,151,163,,63,16.6,3,Diadora Equipe Nucleo,Treadmill Running; TE 1.6,garmin
+2025-03-05,siłownia,62.1,,141,168,,584,70.9,,,TE 2.9,garmin
+2025-03-05,bieg,5.0,0.68,164,171,,69,24.0,4,Diadora Equipe Nucleo,Treadmill Running; TE 2.1,garmin
+2025-03-19,siłownia,48.3,,127,172,,378,47.1,,,TE 2.2,garmin
+2025-03-21,bieg,36.1,4.59,152,162,,432,70.6,2,Diadora Equipe Nucleo,Treadmill Running; tytuł: Base; TE 3.2,garmin
+2025-03-24,siłownia,61.5,,135,170,,540,64.2,,,TE 2.7,garmin
+2025-03-24,bieg,5.1,0.70,157,166,,66,22.9,2,Diadora Equipe Nucleo,Treadmill Running; TE 2.1,garmin
+2025-03-26,bieg,45.2,6.15,151,161,1,533,77.7,3,Diadora Equipe Nucleo,tytuł: Base; TE 3.3,garmin
+2025-03-27,siłownia,25.4,,140,186,,263,56.0,7,,tytuł: Total Body Circuit 3; TE 2.7,garmin
+2025-03-29,bieg,48.5,5.60,154,161,12,486,43.9,2,Diadora Equipe Nucleo,tytuł: Warsaw - Base; TE 2.7,garmin
+2025-03-29,rower,126.9,20.68,100,142,66,603,16.4,1,Kross Evado 5.0,TE 1.6,garmin
+2025-03-30,siłownia,38.6,,116,166,,248,20.6,,,tytuł: Core Circuit 2; TE 2,garmin
+2025-03-31,bieg,19.4,2.35,135,156,10,174,14.3,1,Diadora Equipe Nucleo,tytuł: Warsaw - Recovery; TE 1.6,garmin
+2025-04-01,bieg,38.1,5.79,165,187,3,470,103.3,6,Diadora Equipe Nucleo,tytuł: Warsaw - Threshold; TE 3.7,garmin
+2025-04-02,bieg,27.1,3.73,151,160,7,293,38.5,2,Diadora Equipe Nucleo,tytuł: Warsaw - Base; TE 2.5,garmin
+2025-04-04,siłownia,56.7,,144,173,,550,71.5,,,tytuł: Base Builder 1; TE 3,garmin
+2025-04-07,bieg,50.5,7.09,159,181,21,571,84.8,4,Diadora Equipe Nucleo,tytuł: Warsaw - Tempo; TE 3.4,garmin
+2025-04-08,siłownia,28.6,,124,163,,226,21.7,,,tytuł: Core Circuit 2; TE 2.1,garmin
+2025-04-10,bieg,27.8,3.79,156,172,12,299,36.1,2,Diadora Equipe Nucleo,tytuł: Warsaw - Base; TE 2.5,garmin
+2025-04-11,bieg,42.5,5.73,153,184,2,469,96.4,3,Diadora Equipe Nucleo,tytuł: Warsaw - Anaerobic; TE 3.2,garmin
+2025-04-13,rower,16.4,3.02,114,127,13,114,7.7,1,Kross Evado 5.0,TE 0.7,garmin
+2025-04-13,bieg,60.1,8.32,154,163,6,657,68.9,3,Diadora Equipe Nucleo,tytuł: Warsaw - Long Run; TE 3.1,garmin
+2025-04-14,siłownia,55.3,,119,160,,353,20.9,,,tytuł: Strength Builder 1; TE 1.6,garmin
+2025-04-15,bieg,40.0,6.04,162,179,29,499,102.6,3,Diadora Equipe Nucleo,tytuł: Dortmund - Tempo; TE 3.5,garmin
+2025-04-18,bieg,45.3,6.36,154,164,5,505,60.5,2,Diadora Equipe Nucleo,tytuł: Warsaw - Base; TE 3,garmin
+2025-04-19,bieg,60.3,8.45,155,164,4,670,75.0,3,Diadora Equipe Nucleo,tytuł: Warsaw - Long Run; TE 3.2,garmin
+2025-04-20,siłownia,13.1,,97,128,,59,2.8,,,tytuł: Pre-Run Activation 2; TE 0.2,garmin
+2025-04-20,bieg,37.1,5.37,158,166,3,429,59.5,4,Diadora Equipe Nucleo,tytuł: Warsaw - Base; TE 2.9,garmin
+2025-04-22,bieg,50.0,7.68,158,178,8,608,115.5,5,Diadora Equipe Nucleo,tytuł: Warsaw - Tempo; TE 3.7,garmin
+2025-04-24,siłownia,49.9,,127,157,,370,28.1,,,tytuł: Strength Builder 2; TE 2,garmin
+2025-04-25,bieg,27.2,3.87,155,165,3,309,43.6,2,Diadora Equipe Nucleo,tytuł: Warsaw - Base; TE 2.5,garmin
+2025-04-26,bieg,40.0,5.37,150,160,43,431,44.2,2,Diadora Equipe Nucleo,tytuł: Sulejow - Base; TE 2.6,garmin
+2025-04-27,siłownia,32.8,,116,149,,210,10.9,,,tytuł: Core Circuit 2; TE 1,garmin
+2025-04-28,bieg,26.6,3.60,141,149,15,281,31.0,1,Diadora Equipe Nucleo,tytuł: Warsaw - Recovery; TE 2.2,garmin
+2025-04-29,bieg,38.1,6.12,169,188,5,491,127.3,6,Diadora Equipe Nucleo,tytuł: Warsaw - Threshold; TE 3.8,garmin
+2025-04-30,bieg,32.1,4.73,154,165,5,381,58.9,3,Diadora Equipe Nucleo,tytuł: Warsaw - Base; TE 2.8,garmin
+2025-05-01,siłownia,54.8,,89,129,,182,2.9,,,tytuł: Strength Builder 2; TE 0.2,garmin
+2025-05-02,bieg,50.0,7.68,162,180,15,620,114.4,4,Diadora Equipe Nucleo,tytuł: Siedlce - Tempo; TE 3.7,garmin
+2025-05-03,bieg,67.0,10.01,152,164,29,796,105.7,4,Diadora Equipe Nucleo,tytuł: Lack - Long Run; TE 3.5,garmin
+2025-05-05,bieg,35.0,5.78,163,187,2,446,115.5,6,Diadora Equipe Nucleo,tytuł: Warsaw - Threshold; TE 3.6,garmin
+2025-05-10,bieg,72.0,10.42,153,161,10,833,95.3,3,Diadora Equipe Nucleo,tytuł: Warsaw - Long Run; TE 3.3,garmin
+2025-05-11,bieg,33.0,5.29,156,166,4,424,84.5,3,Diadora Equipe Nucleo,tytuł: Warsaw - Base; TE 3.2,garmin
+2025-05-13,bieg,37.0,5.94,166,194,4,481,194.2,8,Diadora Equipe Nucleo,tytuł: Warsaw - VO2 Max; TE 3.7,garmin
+2025-05-15,siłownia,39.0,,109,146,,216,6.1,,,tytuł: Strength Builder 2; TE 0.5,garmin
+2025-05-16,bieg,33.0,5.17,154,165,17,417,72.7,3,Diadora Equipe Nucleo,tytuł: Warsaw - Base; TE 3.1,garmin
+2025-05-17,bieg,49.1,7.42,150,159,4,598,82.4,3,Diadora Equipe Nucleo,tytuł: Warsaw - Base; TE 3.2,garmin
+2025-05-18,siłownia,26.1,,98,142,,119,4.5,,,tytuł: Core Stability 1; TE 0.3,garmin
+2025-05-19,bieg,42.1,7.09,163,187,4,553,145.5,7,Diadora Equipe Nucleo,tytuł: Warsaw - Threshold; TE 3.8,garmin
+2025-05-20,bieg,35.0,5.47,155,165,10,443,72.9,3,Diadora Equipe Nucleo,tytuł: Warsaw - Base; TE 3,garmin
+2025-05-21,bieg,26.1,3.52,136,147,2,269,26.1,2,Diadora Equipe Nucleo,tytuł: Warsaw - Recovery; TE 2,garmin
+2025-05-22,bieg,42.0,6.76,164,186,6,550,120.4,6,Diadora Equipe Nucleo,tytuł: Warsaw - Threshold; TE 3.6,garmin
+2025-05-23,siłownia,50.2,,108,141,,283,8.2,,,tytuł: Power Builder 2; TE 0.7,garmin
+2025-05-25,bieg,60.0,9.39,151,163,4,744,105.4,3,Diadora Equipe Nucleo,tytuł: Warsaw - Long Run; TE 3.4,garmin
+2025-05-26,bieg,40.0,6.44,152,162,10,519,93.0,3,Diadora Equipe Nucleo,tytuł: Warsaw - Base; TE 3.2,garmin
+2025-05-27,bieg,36.0,6.19,159,182,8,482,115.9,6,Diadora Equipe Nucleo,tytuł: Warsaw - Threshold; TE 3.5,garmin
+2025-05-28,rower,29.2,7.05,98,122,10,145,4.1,1,Kross Evado 5.0,TE 0.3,garmin
+2025-05-28,rower,24.4,4.15,98,133,2,124,4.0,1,Kross Evado 5.0,TE 0.3,garmin
+2025-05-29,bieg,36.0,6.24,159,182,10,487,119.9,7,Diadora Equipe Nucleo,tytuł: Warsaw - Threshold; TE 3.5,garmin
+2025-05-30,bieg,36.0,5.62,153,166,11,460,71.7,3,Diadora Equipe Nucleo,tytuł: Warsaw - Base; TE 3,garmin
+2025-05-30,siłownia,28.9,,119,146,,211,13.0,,,tytuł: Power Builder 2; TE 1.1,garmin
+2025-06-01,rower,22.4,2.73,97,114,15,111,3.1,1,Kross Evado 5.0,TE 0.2,garmin
+2025-06-01,rower,26.6,4.15,95,113,,124,3.1,1,Kross Evado 5.0,TE 0.2,garmin
+2025-06-01,bieg,71.0,10.28,147,155,10,820,79.7,2,Diadora Equipe Nucleo,tytuł: Warsaw - Long Run; TE 3.1,garmin
+2025-06-02,siłownia,22.8,,111,142,,147,9.4,,,tytuł: Core Circuit 1; TE 0.6,garmin
+2025-06-05,bieg,30.1,4.69,150,160,3,379,60.5,2,Diadora Equipe Nucleo,tytuł: Warsaw - Base; TE 2.8,garmin
+2025-06-06,bieg,50.0,7.93,161,176,16,635,109.8,5,Diadora Equipe Nucleo,tytuł: Warsaw - Tempo; TE 3.4,garmin
+2025-06-09,bieg,51.8,8.25,154,166,28,676,111.5,2,Diadora Equipe Nucleo,tytuł: Warsaw - Base; TE 3.5,garmin
+2025-06-10,bieg,36.0,6.05,148,161,8,478,98.7,3,Diadora Equipe Nucleo,tytuł: Warsaw - Base; TE 3.3,garmin
+2025-06-11,bieg,30.0,4.84,154,163,7,395,78.6,3,Diadora Equipe Nucleo,tytuł: Warsaw - Base; TE 3.1,garmin
+2025-06-11,siłownia,39.5,,102,125,,201,5.5,,,tytuł: Power Builder 2; TE 0.4,garmin
+2025-06-12,bieg,44.0,7.42,161,174,10,598,132.2,5,Diadora Equipe Nucleo,tytuł: Warsaw - Tempo; TE 3.7,garmin
+2025-06-14,rower,39.7,8.92,93,114,26,168,3.0,1,Kross Evado 5.0,TE 0.2,garmin
+2025-06-14,rower,20.0,3.09,99,126,14,103,3.4,1,Kross Evado 5.0,TE 0.3,garmin
+2025-06-14,rower,28.5,5.89,114,144,12,195,12.7,1,Kross Evado 5.0,TE 0.9,garmin
+2025-06-14,rower,26.3,5.03,104,126,23,148,4.6,1,Kross Evado 5.0,TE 0.4,garmin
+2025-06-15,bieg,77.0,12.40,153,163,4,991,140.1,3,Diadora Equipe Nucleo,tytuł: Warsaw - Long Run; TE 3.8,garmin
+2025-06-17,bieg,36.0,6.05,164,182,5,484,116.9,6,Diadora Equipe Nucleo,tytuł: Warsaw - Threshold; TE 3.5,garmin
+2025-06-19,bieg,48.0,7.41,154,162,71,613,95.8,3,Diadora Equipe Nucleo,tytuł: Gizycko (Gmina) - Base; TE 3.3,garmin
+2025-06-20,bieg,36.0,5.64,149,162,66,454,77.2,3,Diadora Equipe Nucleo,tytuł: Gizycko (Gmina) - Base; TE 3.1,garmin
+2025-06-21,rower,14.4,2.13,95,127,23,69,2.9,1,Kross Evado 5.0,TE 0.2,garmin
+2025-06-21,rower,21.6,2.64,101,145,28,115,5.5,1,Kross Evado 5.0,TE 0.3,garmin
+2025-06-21,rower,43.1,5.12,92,115,44,177,2.6,1,Kross Evado 5.0,TE 0.2,garmin
+2025-06-22,bieg,90.0,14.59,155,164,36,1167,166.1,3,Diadora Equipe Nucleo,tytuł: Warsaw - Long Run; TE 4.1,garmin
+2025-06-23,siłownia,57.2,,123,161,,442,40.2,,,tytuł: Power Builder 3; TE 2.1,garmin
+2025-06-24,bieg,40.0,7.05,161,181,5,540,142.1,5,Diadora Equipe Nucleo,tytuł: Warsaw - Threshold; TE 3.8,garmin
+2025-06-26,siłownia,19.3,,96,123,,93,3.6,,,tytuł: Core Stability 4; TE 0.3,garmin
+2025-06-27,bieg,36.1,6.02,151,162,13,474,95.3,3,Diadora Equipe Nucleo,tytuł: Warsaw - Base; TE 3.3,garmin
+2025-06-28,bieg,40.0,6.54,151,161,4,515,93.9,3,Diadora Equipe Nucleo,tytuł: Warsaw - Base; TE 3.3,garmin
+2025-06-30,siłownia,42.4,,112,152,,279,20.5,,,tytuł: Power Builder 3; TE 1.4,garmin
+2025-07-01,bieg,48.0,8.36,162,181,84,652,162.5,6,Diadora Equipe Nucleo,tytuł: Volterra - Threshold; TE 4,garmin
+2025-07-03,bieg,50.0,8.07,150,163,80,645,113.4,3,Diadora Equipe Nucleo,tytuł: Volterra - Base; TE 3.5,garmin
+2025-07-07,siłownia,68.4,,120,159,,485,54.4,,,tytuł: Power Builder 3; TE 2.1,garmin
+2025-07-07,bieg,57.0,9.35,154,161,5,742,116.9,3,Diadora Equipe Nucleo,tytuł: Warsaw - Base; TE 3.5,garmin
+2025-07-08,bieg,36.1,6.01,149,167,4,464,90.3,2,Diadora Equipe Nucleo,tytuł: Warsaw - Base; TE 3.2,garmin
+2025-07-10,bieg,46.0,7.83,166,188,15,646,260.6,8,Diadora Equipe Nucleo,tytuł: Warsaw - VO2 Max; TE 4.2,garmin
+2025-07-11,siłownia,21.5,,112,153,,154,14.3,,,tytuł: Core Stability 4; TE 1,garmin
+2025-07-11,bieg,34.0,5.55,152,161,15,449,87.2,3,Diadora Equipe Nucleo,tytuł: Warsaw - Base; TE 3.1,garmin
+2025-07-13,bieg,101.0,16.40,155,163,32,1312,171.9,3,Diadora Equipe Nucleo,tytuł: Warsaw - Long Run; TE 4,garmin
+2025-07-14,siłownia,56.4,,111,152,,357,30.7,,,tytuł: Power Builder 3; TE 1.2,garmin
+2025-07-15,bieg,50.0,8.32,161,177,6,674,123.8,6,Diadora Equipe Nucleo,tytuł: Warsaw - Tempo; TE 3.5,garmin
+2025-07-17,bieg,30.0,5.05,151,163,3,401,80.2,2,Diadora Equipe Nucleo,tytuł: Warsaw - Base; TE 3,garmin
+2025-07-18,bieg,41.0,5.80,148,179,13,481,148.6,4,Diadora Equipe Nucleo,tytuł: Warsaw - Sprint; TE 2.9,garmin
+2025-07-18,rower,24.1,5.13,124,139,15,206,19.3,1,Kross Evado 5.0,TE 1.6,garmin
+2025-07-18,rower,26.6,5.23,97,114,3,131,3.6,1,Kross Evado 5.0,TE 0.3,garmin
+2025-07-20,siłownia,30.6,,105,140,,181,9.1,,,tytuł: Core Circuit 2; TE 0.6,garmin
+2025-07-21,bieg,53.0,8.80,161,174,7,710,136.7,6,Diadora Equipe Nucleo,tytuł: Warsaw - Tempo; TE 3.7,garmin
+2025-07-24,bieg,53.1,8.88,156,166,4,708,122.1,3,EVO SL Black 1,tytuł: Warsaw - Base; TE 3.5,garmin
+2025-07-24,siłownia,5.5,,125,138,,52,6.1,,,tytuł: Post-Run Power 2; TE 0.5,garmin
+2025-07-25,bieg,39.0,6.53,154,164,3,524,101.0,3,EVO SL Black 1,tytuł: Warsaw - Base; TE 3.3,garmin
+2025-07-27,bieg,101.1,15.71,152,161,41,1257,141.4,3,EVO SL Black 1,tytuł: Lack - Long Run; TE 3.7,garmin
+2025-07-28,bieg,36.0,6.10,150,163,10,478,94.0,2,EVO SL Black 1,tytuł: Warsaw - Base; TE 3.2,garmin
+2025-07-28,siłownia,17.8,,91,127,,76,2.9,,,tytuł: Pre-Run Activation 1; TE 0.2,garmin
+2025-07-29,bieg,50.0,8.89,161,181,12,691,172.0,5,EVO SL Black 1,tytuł: Warsaw - Threshold; TE 3.9,garmin
+2025-07-31,bieg,37.0,6.70,164,181,2,529,137.9,5,EVO SL Black 1,tytuł: Warsaw - Threshold; TE 3.7,garmin
+2025-07-31,siłownia,35.3,,111,147,,222,13.4,,,tytuł: Power Builder 4; TE 1,garmin
+2025-08-01,bieg,39.0,6.53,151,161,13,516,92.2,3,EVO SL Black 1,tytuł: Warsaw - Base; TE 3.2,garmin
+2025-08-03,bieg,108.0,18.02,151,164,56,1400,176.7,3,EVO SL Black 1,tytuł: Hel - Long Run; TE 4,garmin
+2025-08-04,siłownia,28.3,,74,108,,72,1.4,,,tytuł: Core Stability 3; TE 0.1,garmin
+2025-08-05,bieg,40.3,7.37,161,181,5,563,143.5,6,EVO SL Black 1,tytuł: Warsaw - Threshold; TE 3.7,garmin
+2025-08-07,bieg,32.6,5.95,154,163,3,452,105.7,3,EVO SL Black 1,tytuł: Warsaw - Base; TE 3.3,garmin
+2025-08-07,siłownia,23.1,,102,132,,131,4.6,,,tytuł: Post-Run Power 2; TE 0.3,garmin
+2025-08-08,bieg,43.0,7.41,153,162,5,578,106.2,3,EVO SL Black 1,tytuł: Warsaw - Base; TE 3.3,garmin
+2025-08-09,rower,25.6,5.86,116,140,12,187,11.3,1,Kross Evado 5.0,TE 0.9,garmin
+2025-08-10,bieg,61.4,10.03,153,167,10,795,112.8,2,EVO SL Black 1,tytuł: Warsaw - Long Run; TE 3.4,garmin
+2025-08-11,siłownia,24.5,,81,125,,79,2.3,,,tytuł: Pre-Run Activation 2; TE 0.1,garmin
+2025-08-11,bieg,39.0,6.77,157,166,19,543,112.1,3,EVO SL Black 1,tytuł: Warsaw - Base; TE 3.4,garmin
+2025-08-12,bieg,43.1,7.69,155,162,6,601,120.3,3,EVO SL Black 1,tytuł: Warsaw - Base; TE 3.5,garmin
+2025-08-13,rower,41.6,6.87,97,132,18,197,4.2,1,Kross Evado 5.0,TE 0.3,garmin
+2025-08-13,rower,32.7,6.59,97,137,7,161,5.1,1,Kross Evado 5.0,TE 0.4,garmin
+2025-08-14,bieg,46.0,8.22,165,174,4,652,143.3,6,EVO SL Black 1,tytuł: Warsaw - Tempo; TE 3.7,garmin
+2025-08-17,bieg,101.0,17.10,156,163,32,1342,178.0,2,EVO SL Black 1,tytuł: Warsaw - Long Run; TE 4.1,garmin
+2025-08-18,bieg,39.0,6.59,144,154,6,506,81.1,2,EVO SL Black 1,tytuł: Warsaw - Base; TE 3.1,garmin
+2025-08-18,siłownia,24.0,,127,163,,226,27.1,,,tytuł: Total Body Circuit 1; TE 1.6,garmin
+2025-08-19,bieg,43.1,7.48,160,189,6,598,274.3,7,EVO SL Black 1,tytuł: Warsaw - VO2 Max; TE 3.6,garmin
+2025-08-21,bieg,42.0,7.03,165,192,8,593,267.2,9,EVO SL Black 1,tytuł: Warsaw - VO2 Max; TE 3.8,garmin
+2025-08-22,bieg,42.0,7.14,148,159,8,559,89.3,2,EVO SL Black 1,tytuł: Warsaw - Base; TE 3.1,garmin
+2025-08-24,bieg,90.8,15.07,156,163,81,1213,161.7,3,EVO SL Black 1,tytuł: Siedlce (Gmina) - Long Run; TE 3.8,garmin
+2025-08-25,bieg,32.0,5.46,152,163,14,434,82.2,3,EVO SL Black 1,tytuł: Siedlce (Gmina) - Base; TE 3,garmin
+2025-08-26,bieg,56.0,10.25,160,174,85,794,157.3,5,EVO SL Black 1,tytuł: Patnow - Tempo; TE 3.8,garmin
+2025-08-28,bieg,55.3,7.60,146,180,52,636,202.7,8,EVO SL Black 1,tytuł: Patnow - Sprint; TE 3,garmin
+2025-08-30,bieg,42.0,6.81,145,154,10,537,74.4,3,EVO SL Black 1,TE 2.9,garmin
+2025-08-31,rower,12.3,2.25,92,112,8,57,2.4,1,Kross Evado 5.0,TE 0.1,garmin
+2025-08-31,rower,18.1,3.34,96,123,15,92,3.1,1,Kross Evado 5.0,TE 0.2,garmin
+2025-08-31,bieg,31.3,4.74,136,144,2,370,44.1,1,EVO SL Black 1,tytuł: Warsaw - Recovery; TE 2.3,garmin
+2025-09-01,bieg,46.0,8.33,156,174,6,640,127.9,4,EVO SL Black 1,tytuł: Warsaw - Tempo; TE 3.5,garmin
+2025-09-02,bieg,37.0,5.79,135,143,4,443,52.4,2,EVO SL Black 1,tytuł: Warsaw - Recovery; TE 2.5,garmin
+2025-09-03,bieg,32.0,4.77,137,146,6,370,39.8,2,EVO SL Black 1,tytuł: Warsaw - Recovery; TE 2.2,garmin
+2025-09-05,bieg,31.0,5.03,149,163,4,401,67.7,2,EVO SL Black 1,tytuł: Warsaw - Base; TE 2.8,garmin
+2025-09-06,bieg,109.7,21.23,181,187,30,1711,405.1,10,EVO SL Black 1,tytuł: Warsaw - Wizz Air Warsaw Praski Night Half Marathon; TE 5,garmin
+2025-09-13,bieg,62.5,10.08,151,158,29,784,101.0,3,EVO SL Black 1,tytuł: Siedlce (Gmina) - Long Run; TE 3.2,garmin
+2025-09-28,bieg,44.0,6.67,157,165,9,542,74.9,3,EVO SL Black 1,tytuł: Warsaw - Base; TE 3.1,garmin
+2025-10-03,wędrówka,172.7,8.87,121,161,91,1055,46.0,,DynaSoft Nitrel v5 GORE-TEX Black 1,TE 2.5,garmin
+2025-10-04,wędrówka,301.4,12.76,135,184,1028,2508,194.7,,DynaSoft Nitrel v5 GORE-TEX Black 1,Mountaineering; tytuł: Strba Mountaineering; TE 4.2,garmin
+2025-10-08,rower,12.6,3.22,129,153,25,127,22.0,1,Kross Evado 5.0,TE 2,garmin
+2025-10-08,rower,185.1,3.66,77,165,23,482,27.4,1,Kross Evado 5.0,TE 1.6,garmin
+2025-10-13,rower,24.1,7.55,129,179,51,233,62.1,1,Kross Evado 5.0,TE 2.8,garmin
+2025-10-15,rower,20.9,5.26,137,155,25,229,34.3,1,Kross Evado 5.0,TE 2.2,garmin
+2025-10-15,rower,22.0,5.42,104,152,13,135,21.6,1,Kross Evado 5.0,TE 1.2,garmin
+2025-11-05,bieg,30.8,4.29,158,168,19,368,50.0,3,Bondi 9 Mint 1,tytuł: Warsaw - Base; TE 2.7,garmin
+2025-11-07,siłownia,49.5,,107,153,,285,16.4,,,TE 0.8,garmin
+2025-11-09,bieg,33.1,4.64,151,159,14,373,42.1,3,Bondi 9 Mint 1,tytuł: Warsaw - Base; TE 2.5,garmin
+2025-11-10,siłownia,39.7,,108,147,,227,9.8,,,TE 0.9,garmin
+2025-11-11,bieg,34.8,5.01,153,161,13,398,51.2,2,Bondi 9 Mint 1,TE 2.7,garmin
+2025-11-12,siłownia,37.8,,100,140,,183,5.1,,,TE 0.5,garmin
+2025-11-13,bieg,30.9,4.57,159,168,15,369,60.5,3,Bondi 9 Mint 1,TE 3,garmin
+2025-11-14,siłownia,37.9,,106,209,,204,32.6,,,TE 0.8,garmin
+2025-11-17,siłownia,33.0,,113,157,,222,31.1,,,TE 1.8,garmin
+2025-11-18,bieg,37.3,5.34,152,161,26,422,55.5,3,Bondi 9 Mint 1,tytuł: Warsaw - Base; TE 2.8,garmin
+2025-11-19,siłownia,24.4,,130,178,,218,44.3,,,TE 2.3,garmin
+2025-11-20,bieg,30.6,4.48,157,166,14,361,62.4,3,Bondi 9 Mint 1,TE 3,garmin
+2025-11-21,siłownia,26.6,,117,163,,190,34.0,,,TE 1.9,garmin
+2025-11-24,siłownia,60.4,,115,145,,363,13.0,,,TE 1.2,garmin
+2025-11-27,bieg,38.3,5.41,153,166,25,428,56.8,3,Bondi 9 Mint 1,TE 2.9,garmin
+2025-11-28,siłownia,59.4,,109,145,,316,7.0,,,TE 0.6,garmin
+2025-11-29,bieg,40.0,6.71,162,177,32,519,124.4,3,EVO SL Black 1,tytuł: Warsaw - Tempo; TE 3.8,garmin
+2025-12-01,siłownia,55.6,,100,142,,254,15.4,,,TE 0.6,garmin
+2025-12-02,bieg,32.0,4.77,155,166,14,379,65.9,3,Bondi 9 Mint 1,tytuł: Warsaw - Base; TE 3,garmin
+2025-12-03,siłownia,50.2,,107,142,,263,8.7,,,TE 0.8,garmin
+2025-12-04,bieg,37.0,6.24,169,184,22,488,136.5,7,EVO SL Black 1,tytuł: Warsaw - Threshold; TE 3.9,garmin
+2025-12-05,siłownia,57.9,,112,147,,316,13.5,,,TE 1.1,garmin
+2025-12-07,bieg,46.0,6.85,154,164,13,540,83.2,3,Bondi 9 Mint 1,tytuł: Warsaw - Base; TE 3.3,garmin
+2025-12-08,siłownia,51.9,,112,146,,296,11.8,,,TE 1.1,garmin
+2025-12-09,bieg,34.1,3.70,146,187,10,366,104.3,4,EVO SL Black 1,TE 3,garmin
+2025-12-10,siłownia,46.1,,102,146,,220,7.8,,,TE 0.6,garmin
+2025-12-11,bieg,31.4,4.73,154,166,7,372,70.6,3,Bondi 9 Mint 1,tytuł: Warsaw - Base; TE 3.1,garmin
+2025-12-12,siłownia,76.7,,109,152,,401,20.9,,,TE 1.2,garmin
+2025-12-15,siłownia,34.4,,119,167,,244,31.4,,,TE 2,garmin
+2025-12-16,bieg,45.0,6.85,156,167,20,544,93.5,3,Bondi 9 Mint 1,tytuł: Warsaw - Base; TE 3.4,garmin
+2025-12-17,siłownia,27.3,,114,151,,171,11.4,,,TE 0.9,garmin
+2025-12-18,bieg,38.3,6.69,165,187,26,495,160.8,7,EVO SL Black 1,tytuł: Warsaw - Threshold; TE 3.9,garmin
+2025-12-19,siłownia,32.1,,108,148,,185,21.1,,,TE 1.1,garmin
+2025-12-21,bieg,35.0,4.68,156,190,18,397,98.5,6,Bondi 9 Mint 1,TE 3.1,garmin
+2025-12-22,siłownia,46.2,,82,117,,124,1.8,,,TE 0.1,garmin
+2025-12-23,bieg,54.0,8.18,151,159,20,635,90.3,2,Bondi 9 Mint 1,tytuł: Warsaw - Base; TE 3.3,garmin
+2025-12-25,bieg,37.5,6.16,168,187,24,490,125.1,7,Bondi 9 Mint 1,tytuł: Siedlce - Threshold; TE 3.7,garmin
+2025-12-27,bieg,62.2,9.12,155,165,52,723,90.0,2,Bondi 9 Mint 1,tytuł: Warsaw - Long Run; TE 3.3,garmin
+2025-12-29,siłownia,44.6,,102,140,,218,5.5,,,TE 0.5,garmin
+2025-12-30,bieg,42.3,7.16,162,174,65,565,124.8,5,EVO SL Black 1,tytuł: Warsaw - Tempo; TE 3.7,garmin
+2025-12-31,siłownia,40.9,,110,146,,242,11.5,,,TE 0.8,garmin
+2026-01-01,bieg,29.7,3.31,149,178,24,322,44.9,3,Bondi 9 Mint 1,TE 2.4,garmin
+2026-01-03,bieg,40.0,5.89,149,162,14,477,66.3,2,Bondi 9 Mint 1,tytuł: Warsaw - Base; TE 3,garmin
+2026-01-05,siłownia,54.0,,100,133,,254,4.7,,,TE 0.4,garmin
+2026-01-06,bieg,35.2,6.05,167,187,17,486,126.0,7,EVO SL Black 1,tytuł: Warsaw - Threshold; TE 3.8,garmin
+2026-01-07,siłownia,30.1,,107,170,,169,31.4,,,TE 0.9,garmin
+2026-01-08,bieg,46.4,6.85,157,169,46,567,80.9,2,Bondi 9 Mint 1,tytuł: Warsaw - Base; TE 3.2,garmin
+2026-01-10,siłownia,43.2,,109,148,,253,9.8,,,TE 0.9,garmin
+2026-01-12,siłownia,34.6,,115,164,,238,27.0,,,TE 1.5,garmin
+2026-01-13,bieg,38.5,5.74,159,168,23,473,72.3,3,Bondi 9 Mint 1,tytuł: Warsaw - Base; TE 3.1,garmin
+2026-01-14,siłownia,32.3,,112,146,,211,11.6,,,TE 1,garmin
+2026-01-15,bieg,34.7,5.26,157,176,20,442,83.3,3,Bondi 9 Mint 1,TE 3.3,garmin
+2026-01-16,siłownia,33.5,,108,151,,202,11.0,,,TE 0.9,garmin
+2026-02-09,siłownia,38.8,,99,127,,179,3.7,,,TE 0.3,garmin
+2026-02-10,bieg,25.2,3.48,146,165,27,280,36.5,2,Bondi 9 Mint 1,tytuł: Warsaw - Base; TE 2.4,garmin
+2026-02-11,siłownia,36.8,,103,130,,171,4.2,,,TE 0.4,garmin
+2026-02-12,bieg,29.2,4.24,161,182,26,359,59.5,3,Bondi 9 Mint 1,tytuł: Warsaw - Base; TE 2.9,garmin
+2026-02-13,siłownia,41.1,,94,122,,164,3.3,,,TE 0.3,garmin
+2026-02-16,siłownia,59.1,,111,152,,340,15.1,,,TE 1.1,garmin
+2026-02-17,bieg,32.7,4.69,167,180,18,395,64.4,3,Bondi 9 Mint 1,tytuł: Warsaw - Base; TE 3,garmin
+2026-02-18,siłownia,49.2,,113,144,,288,11.6,,,TE 1.1,garmin
+2026-02-19,bieg,38.7,5.66,159,172,24,469,76.6,3,Bondi 9 Mint 1,tytuł: Warsaw - Base; TE 3.2,garmin
+2026-02-20,siłownia,41.1,,109,147,,235,12.2,,,TE 0.9,garmin
+2026-02-21,bieg,38.5,5.39,158,169,30,438,54.7,3,Bondi 9 Mint 1,tytuł: Warsaw - Base; TE 2.8,garmin
+2026-02-23,siłownia,40.7,,113,156,,258,16.1,,,TE 1.6,garmin
+2026-02-24,bieg,38.0,5.70,161,183,33,474,90.6,3,Bondi 9 Mint 1,TE 3.5,garmin
+2026-03-02,siłownia,28.1,,114,150,,182,12.2,,,TE 1.3,garmin
+2026-03-03,bieg,48.1,7.04,159,172,36,579,87.9,2,Bondi 9 Mint 1,tytuł: Warsaw - W1 Tue Easy Run - 7km Easy Run (; TE 3.5,garmin
+2026-03-04,bieg,56.9,8.72,159,186,47,700,162.1,5,EVO SL Black 1,tytuł: Warsaw - W1 Wed Intervals - 400m Repeats; TE 4.2,garmin
+2026-03-06,bieg,37.5,6.05,169,189,23,498,132.4,4,Bondi 9 Mint 1,tytuł: Warsaw - W1 Fri Tempo - Progressive Run (; TE 4.1,garmin
+2026-03-08,bieg,79.6,12.01,157,169,26,978,141.9,2,Bondi 9 Mint 1,tytuł: Warsaw - W1 Sun Long Run - 12km Long Run; TE 4.3,garmin
+2026-03-09,siłownia,64.0,,105,150,,319,8.6,,,TE 0.8,garmin
+2026-03-10,bieg,41.4,6.01,153,170,26,485,77.7,2,Bondi 9 Mint 1,tytuł: Warsaw - W2 Tue Easy Run - 6km Easy Run (; TE 3.2,garmin
+2026-03-11,bieg,52.4,8.36,167,188,25,689,169.8,4,Bondi 9 Mint 1,tytuł: Warsaw - W2 Wed Tempo - Progressive Run (; TE 4.4,garmin
+2026-03-15,bieg,83.9,13.12,172,187,47,1096,229.6,5,Bondi 9 Mint 1,tytuł: Warsaw - W2 Sun Long Run - 13km Progressi; TE 4.9,garmin
+2026-03-16,siłownia,42.9,,119,160,,289,28.2,,,TE 1.4,garmin
+2026-03-17,bieg,62.5,9.00,147,160,45,707,86.2,2,EVO SL Black 1,tytuł: Warsaw - W3 Tue Easy Run - 9km Easy Run (; TE 3.2,garmin
+2026-03-18,bieg,53.8,8.19,156,176,51,652,124.6,3,EVO SL Black 1,tytuł: Warsaw - W3 Wed Intervals - 1km Repeats (; TE 3.6,garmin
+2026-03-20,bieg,53.8,8.48,155,173,31,664,133.3,3,EVO SL Black 1,tytuł: Warsaw - W3 Fri Tempo - Rolling 300s (8.2; TE 3.7,garmin
+2026-03-22,bieg,96.6,14.00,159,174,40,1136,141.1,2,EVO SL Black 1,tytuł: Warsaw - W3 Sun Long Run - 14km Long Run; TE 3.8,garmin
+2026-03-22,rower,67.0,9.04,93,129,39,271,5.7,1,Kross Evado 5.0,TE 0.5,garmin
+2026-03-23,siłownia,56.9,,101,150,,264,13.1,,,TE 0.6,garmin
+2026-03-25,bieg,36.5,5.69,155,182,40,447,99.1,3,EVO SL Black 1,tytuł: Warsaw - W4 Wed Tempo - Tempo 2km (5.5km); TE 3.3,garmin
+2026-03-26,siłownia,36.8,,111,155,,226,12.5,,,TE 0.9,garmin
+2026-03-27,bieg,51.3,7.54,150,159,33,593,85.7,2,EVO SL Black 1,TE 3.2,garmin
+2026-03-28,rower,57.5,6.82,97,131,35,246,7.9,1,Kross Evado 5.0,TE 0.6,garmin
+2026-03-28,rower,39.0,7.18,104,141,22,205,11.1,1,Kross Evado 5.0,TE 0.8,garmin
+2026-03-29,bieg,55.4,8.01,148,163,32,629,83.6,2,EVO SL Black 1,tytuł: Warsaw - W4 Sun Long Run - 8km Long Run (; TE 3.1,garmin
+2026-03-31,bieg,53.3,8.01,152,165,33,633,105.8,2,EVO SL Black 1,tytuł: Warsaw - W5 Tue Easy Run - 8km Easy Run (; TE 3.3,garmin
+2026-04-01,bieg,65.6,10.54,161,182,50,823,172.6,5,EVO SL Black 1,tytuł: Warsaw - W5 Wed Tempo - Tempo 3-2-1 (10km; TE 4.1,garmin
+2026-04-02,siłownia,46.2,,109,137,,257,6.4,,,TE 0.5,garmin
+2026-04-03,bieg,53.6,8.44,154,180,61,644,142.8,6,EVO SL Black 1,tytuł: Warsaw - W5 Fri Intervals - 800m into 400; TE 3.5,garmin
+2026-04-06,bieg,93.7,15.00,163,173,108,1196,198.5,3,EVO SL Black 1,tytuł: Siedlce (Gmina) - W5 Mon Long Run - 15km Long Run; TE 4.4,garmin
+2026-04-08,bieg,64.2,10.81,163,185,38,837,194.4,6,EVO SL Black 1,tytuł: Warsaw - W6 Wed Tempo - Tempo 4km (10km); TE 4.4,garmin
+2026-04-09,siłownia,44.2,,108,153,,238,22.0,,,TE 0.9,garmin
+2026-04-10,bieg,58.2,8.55,147,159,39,668,86.2,2,EVO SL Black 1,tytuł: Warsaw - W6 Fri Easy Run #2 - 11km Easy R; TE 3.1,garmin
+2026-04-12,rower,59.2,8.47,87,120,52,204,4.1,1,Kross Evado 5.0,TE 0.3,garmin
+2026-04-13,siłownia,37.5,,123,154,,280,44.3,,,TE 2,garmin
+2026-04-16,siłownia,41.7,,115,140,,265,11.7,,,TE 1,garmin
+2026-04-17,bieg,45.5,7.35,154,177,46,557,143.4,4,EVO SL Black 1,tytuł: Warsaw - W7 Fri Intervals - Drop Set (6.4; TE 3.5,garmin
+2026-04-18,rower,66.6,9.97,97,128,54,291,4.6,1,Kross Evado 5.0,TE 0.4,garmin
+2026-04-18,rower,17.5,3.17,87,107,18,66,2.0,1,Kross Evado 5.0,TE 0.1,garmin
+2026-04-19,bieg,107.8,17.00,161,177,79,1365,198.8,3,EVO SL Black 1,tytuł: Warsaw - W7 Sun Long Run - 17km Long Run; TE 4.4,garmin
+2026-04-20,siłownia,43.6,,112,148,,267,17.4,,,TE 1.2,garmin
+2026-04-21,bieg,42.3,6.12,143,155,41,470,57.2,2,EVO SL Black 1,tytuł: Warsaw - W8 Tue Easy Run - 6km Easy Run (; TE 2.7,garmin
+2026-04-22,bieg,32.9,6.19,174,191,24,476,184.1,6,EVO SL Black 1,tytuł: Warsaw - W8 Wed Time Trial - 5km Time Tri; TE 4.2,garmin
+2026-04-28,bieg,56.5,8.30,139,152,46,641,68.4,2,EVO SL Black 1,tytuł: Warsaw - W9 Tue Easy Run - 8km Easy Run (; TE 3,garmin
+2026-04-29,bieg,68.9,11.54,156,185,58,892,183.1,5,EVO SL Black 1,tytuł: Warsaw - W9 Wed Tempo - On Off Ks (11km); TE 4.3,garmin
+2026-05-01,bieg,47.5,7.82,164,192,70,642,213.1,6,EVO SL Black 1,tytuł: Warsaw - W9 Fri Intervals - 800m Repeats; TE 4.1,garmin
+2026-05-03,bieg,129.8,20.00,166,187,135,1668,234.3,3,EVO SL Black 1,tytuł: Warsaw - W9 Sun Long Run - 20km Long Run; TE 4.8,garmin
+2026-05-04,siłownia,28.9,,99,128,,144,5.4,,,TE 0.4,garmin
+2026-05-11,siłownia,46.5,,106,146,,257,12.1,,,TE 0.7,garmin
+2026-05-12,bieg,41.0,5.91,142,153,24,459,52.9,2,EVO SL Black 1,tytuł: Warsaw - W1 Tue Easy Run - 5.5km Easy Run; TE 2.7,garmin
+2026-05-13,bieg,49.6,8.11,160,187,61,656,223.1,7,EVO SL Black 1,tytuł: Warsaw - W1 Wed Intervals - 400m Repeats; TE 3.9,garmin
+2026-05-15,bieg,41.1,7.00,163,188,41,559,169.1,6,EVO SL Black 1,tytuł: Warsaw - W1 Fri Tempo - Tempo 2-1-1 (6km); TE 3.8,garmin
+2026-05-17,bieg,66.0,10.13,146,156,37,781,98.9,2,EVO SL Black 1,tytuł: Siedlce (Gmina) - W1 Sun Long Run - 10km Long Run; TE 3.3,garmin
+2026-05-18,siłownia,37.6,,108,145,,224,12.0,,,TE 0.8,garmin
+2026-05-19,bieg,43.1,6.50,149,162,36,518,76.9,2,EVO SL Black 1,tytuł: Warsaw - W2 Tue Easy Run - 6.5km Easy Run; TE 3.1,garmin
+2026-05-20,bieg,55.3,9.29,170,193,47,774,325.4,8,EVO SL Black 1,tytuł: Warsaw - W2 Wed Intervals - Drop Set (8.1; TE 4.7,garmin
+2026-05-24,bieg,65.5,11.01,167,194,67,890,259.5,7,EVO SL Black 1,tytuł: Orzysz - W2 Sun Long Run - 11km Progressi; TE 4.9,garmin
+2026-05-26,bieg,54.5,8.01,145,159,98,633,77.7,2,EVO SL Black 1,TE 3,garmin
+2026-05-27,bieg,43.9,7.74,160,178,46,595,148.0,5,EVO SL Black 1,tytuł: Warsaw - W3 Wed Tempo - Rolling 300s (7.6; TE 3.7,garmin
+2026-05-29,bieg,41.6,7.16,159,186,87,556,192.5,6,EVO SL Black 1,tytuł: Warsaw - W3 Fri Intervals - Broken Miles; TE 3.7,garmin
+2026-05-31,bieg,83.1,13.00,153,164,32,1046,136.2,2,EVO SL Black 1,tytuł: Warsaw - W3 Sun Long Run - 13km Long Run; TE 3.7,garmin
+2026-05-31,rower,9.8,2.03,108,125,11,64,4.1,1,Kross Evado 5.0,TE 0.3,garmin
+2026-06-01,siłownia,57.6,,108,174,,340,24.9,,,TE 1.3,garmin
+2026-06-02,bieg,47.7,6.97,146,162,42,562,70.8,2,EVO SL Black 1,tytuł: Warsaw - W4 Tue Easy Run - 7.5km Easy Run; TE 2.9,garmin
+2026-06-03,bieg,63.0,10.37,161,190,67,841,311.6,7,EVO SL Black 1,tytuł: Warsaw - W4 Wed Intervals - Pyramid Inter; TE 4.1,garmin
+2026-06-05,bieg,53.2,8.09,147,164,120,650,86.8,2,EVO SL Black 1,tytuł: Mniszkow - W4 Fri Easy Run #2 - 8km Easy Ru; TE 3.1,garmin
+2026-06-07,bieg,89.0,15.01,156,170,44,1175,201.2,4,EVO SL Black 1,tytuł: Warsaw - W4 Sun Long Run - 15km Block Lon; TE 4.2,garmin
+2026-06-09,bieg,51.2,7.55,138,148,27,583,62.1,2,EVO SL Black 1,tytuł: Warsaw - W5 Tue Easy Run - 7.5km Easy Run; TE 2.7,garmin
+2026-06-10,bieg,47.9,8.11,131,181,52,598,114.1,6,EVO SL Black 1,tytuł: Warsaw - W5 Wed Intervals - Pyramid Set (; TE 3.3,garmin
+2026-06-12,bieg,26.5,5.14,152,192,27,386,129.6,8,EVO SL Solar Yellow 1,tytuł: Warsaw - W5 Fri Tempo - Progressive Run (; TE 3.5,garmin
+2026-06-14,bieg,48.0,8.15,151,164,8,640,122.1,3,EVO SL Solar Yellow 1,tytuł: Warsaw - W5 Sun Long Run - 8km Long Run (; TE 3.4,garmin
+2026-06-17,bieg,44.9,7.33,160,187,110,601,212.2,6,EVO SL Solar Yellow 1,tytuł: Warsaw - W6 Wed Taper Intervals - Taper 4; TE 3.6,garmin
+2026-06-20,bieg,22.6,5.04,193,201,6,396,251.0,9,EVO SL Solar Yellow 1,TE 4.6,garmin
+2026-06-29,siłownia,41.5,,102,149,,217,9.7,,,TE 0.7,garmin
+2026-06-30,bieg,38.4,6.03,146,161,24,466,70.8,2,EVO SL Solar Yellow 1,tytuł: Warsaw - W1 Tue Easy Run - 6km Easy Run (; TE 3,garmin
+2026-07-01,bieg,45.9,7.90,167,192,55,637,196.1,6,EVO SL Solar Yellow 1,tytuł: Warsaw - W1 Wed Tempo - Tempo 2-1-1 (7.5k; TE 4.2,garmin
+2026-07-07,bieg,29.8,4.79,138,162,27,357,62.5,2,EVO SL Solar Yellow 1,tytuł: Warsaw - W2 Tue Easy Run - 6.5km Easy Run; TE 2.9,garmin
+2026-07-08,bieg,50.6,8.70,159,189,118,679,179.7,6,EVO SL Solar Yellow 1,tytuł: Warsaw - W2 Wed Intervals - 1km Repeats (; TE 4.2,garmin
+2026-07-09,siłownia,27.4,,110,156,,176,16.3,,,TE 1,garmin
+2026-07-10,bieg,58.2,9.25,149,163,22,723,104.3,2,EVO SL Solar Yellow 1,tytuł: Warsaw - W2 Fri Easy Run #2 - 9km Easy Ru; TE 3.4,garmin
+2026-07-12,bieg,70.3,13.01,166,189,43,999,271.2,6,EVO SL Solar Yellow 1,tytuł: Warsaw - W2 Sun Long Run - 13km Progressi; TE 5,garmin
+2026-07-13,siłownia,58.0,,78,130,,172,4.6,,,TE 0.4,garmin
+2026-07-14,bieg,35.9,5.50,149,169,33,441,73.8,2,EVO SL Solar Yellow 1,tytuł: Warsaw - W3 Tue Easy Run - 5.5km Easy Run; TE 3,garmin
+2026-07-15,bieg,54.0,9.34,165,194,45,744,194.5,7,EVO SL Solar Yellow 1,tytuł: Warsaw - W3 Wed Tempo - Tempo 2km Repeats; TE 4.4,garmin
+2026-07-17,rower,23.0,3.92,95,117,21,105,2.7,1,Kross Evado 5.0,TE 0.2,garmin
+2026-07-17,rower,73.4,13.85,94,121,48,308,3.9,1,Kross Evado 5.0,TE 0.3,garmin
+2026-07-18,bieg,85.8,15.15,164,178,25,1185,237.0,3,EVO SL Solar Yellow 1,tytuł: Warsaw - W3 Sun Long Run - 15km Long Run; TE 5,garmin
+2026-07-21,bieg,58.5,9.03,149,160,27,703,95.7,2,EVO SL Solar Yellow 1,tytuł: Warsaw - W4 Tue Easy Run - 9km Easy Run (; TE 3.3,garmin
+2026-07-23,bieg,44.1,7.74,158,185,42,575,165.3,5,EVO SL Solar Yellow 1,tytuł: Warsaw - W4 Wed Tempo - Rolling 300s (7.6; TE 3.8,garmin
+2026-07-24,bieg,59.4,9.01,143,155,26,681,80.5,2,EVO SL Solar Yellow 1,TE 3.1,garmin
+2026-07-26,bieg,108.8,17.01,148,160,137,1268,137.1,2,EVO SL Solar Yellow 1,tytuł: Warsaw - W4 Sun Long Run - 17km Long Run; TE 3.7,garmin
+2026-07-27,siłownia,43.7,,82,120,,133,2.2,,,TE 0.1,garmin
+2026-07-27,rower,35.7,6.69,93,110,42,148,3.0,1,Kross Evado 5.0,TE 0.2,garmin
+2026-07-28,bieg,39.3,6.09,142,172,59,454,63.3,2,EVO SL Solar Yellow 1,tytuł: Warsaw - W5 Tue Easy Run - 6km Easy Run (; TE 2.8,garmin
+2026-07-29,bieg,36.7,6.69,164,190,44,508,272.0,5,EVO SL Solar Yellow 1,tytuł: Warsaw - W5 Wed Intervals - Pyramid Inter; TE 3.8,garmin
+2026-07-30,siłownia,39.2,,106,141,,219,6.1,,,TE 0.5,garmin
+2026-07-31,bieg,52.3,8.00,152,171,17,620,88.0,2,EVO SL Solar Yellow 1,tytuł: Pisz - W5 Fri Easy Run #2 - 8km Easy Ru; TE 3.1,garmin
+2026-08-02,bieg,62.3,10.01,149,164,44,762,110.0,2,EVO SL Solar Yellow 1,tytuł: Siedlce - W5 Sun Long Run - 10km Long Run; TE 3.4,garmin
+2026-08-03,siłownia,30.4,,92,144,,82,5.4,,,TE 0.2,garmin
+2026-08-04,bieg,57.5,9.06,143,174,13,680,81.0,2,EVO SL Solar Yellow 1,tytuł: Warsaw - W6 Tue Easy Run - 9km Easy Run (; TE 3.1,garmin
+2026-08-07,siłownia,36.4,,110,140,,230,10.3,,,TE 0.8,garmin
+2026-08-11,siłownia,35.2,,100,134,,180,6.4,,,TE 0.5,garmin
+2026-08-13,bieg,50.9,8.16,155,171,26,640,103.4,3,EVO SL Solar Yellow 1,tytuł: Warsaw - W7 Thu Easy Run #2 - 9km Easy Ru; TE 3.4,garmin
+2026-08-14,bieg,52.2,9.22,162,191,41,703,178.4,5,EVO SL Solar Yellow 1,tytuł: Warsaw - W7 Fri Tempo - Tempo 5km (9km); TE 4.2,garmin
+2026-08-17,siłownia,24.8,,97,139,,124,6.6,,,TE 0.4,garmin
+2026-09-02,bieg,37.1,5.51,150,164,20,445,64.3,3,EVO SL Solar Yellow 1,tytuł: Warsaw - W1 Wed Easy Run - 5km Easy Run (; TE 3,garmin
+2026-09-06,bieg,38.3,6.01,150,173,50,479,88.1,2,EVO SL Solar Yellow 1,TE 3.3,garmin
+2026-09-07,siłownia,51.1,,110,153,,306,30.3,,,TE 1.3,garmin
+2026-09-07,rower,14.2,2.04,105,134,20,88,6.0,1,Kross Evado 5.0,TE 0.5,garmin
+2026-09-07,rower,10.0,2.54,118,139,11,84,10.3,1,Kross Evado 5.0,TE 1,garmin
+2026-09-08,bieg,34.3,5.49,157,169,28,437,90.4,2,EVO SL Solar Yellow 1,TE 3.4,garmin
+2026-09-09,siłownia,37.8,,92,121,,152,3.1,,,TE 0.3,garmin
+2026-09-11,siłownia,35.5,,113,155,,232,15.2,,,TE 1.4,garmin
+2026-09-13,bieg,45.6,7.01,152,171,34,558,87.8,2,EVO SL Solar Yellow 1,TE 3.3,garmin
+2026-09-19,bieg,39.0,5.55,155,168,11,452,58.8,2,Bondi 9 Mint 1,TE 2.9,garmin
+2026-09-21,siłownia,34.7,,126,161,,271,35.7,,,TE 2.2,garmin
+2026-09-22,bieg,40.3,6.04,154,173,38,479,85.3,2,Bondi 9 Mint 1,TE 3.5,garmin
+2026-09-23,siłownia,46.3,,120,156,,317,34.6,,,TE 2,garmin
+2026-09-29,bieg,43.9,6.22,153,168,39,486,69.5,2,Bondi 9 Mint 1,TE 3.2,garmin
+2026-09-30,siłownia,60.4,,117,159,,384,28.3,,,TE 2.1,garmin
+2026-10-02,siłownia,55.9,,117,158,,350,28.7,,,TE 2,garmin
+2026-10-04,bieg,60.1,8.98,159,172,39,714,123.7,2,Bondi 9 Mint 1,TE 4,garmin
+2026-10-05,siłownia,57.2,,123,158,,410,33.4,,,TE 2.2,garmin
+2026-10-06,bieg,41.1,6.34,154,168,36,502,111.3,2,EVO SL Solar Yellow 1,TE 3.8,garmin
+2026-10-07,siłownia,67.9,,120,165,,420,58.5,,,TE 2.2,garmin
+2026-10-09,siłownia,47.8,,109,143,,261,11.3,,,TE 1.3,garmin
+2026-10-12,inne,20,,,,,,,,,stretching,manual
+2026-10-16,bieg,40.6,6.17,154,167,43,494,98,3,EVO SL Solar Yellow 1,TE 3.6,garmin

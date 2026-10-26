@@ -1,0 +1,185 @@
+date,test,value,unit,ref_low,ref_high,flag,lab,source_file,notes
+2018-05-05,leukocyty,6.2,tys/µL,4.2,9.1,,Diagnostyka,2018-05-05_Diagnostyka_morfologia_krwi_05-2018.pdf,
+2018-05-05,erytrocyty,4.9,mln/µL,4.6,6.1,,Diagnostyka,2018-05-05_Diagnostyka_morfologia_krwi_05-2018.pdf,
+2018-05-05,hemoglobina,14.6,g/dL,13.7,17.5,,Diagnostyka,2018-05-05_Diagnostyka_morfologia_krwi_05-2018.pdf,
+2018-05-05,hematokryt,43,%,40,51,,Diagnostyka,2018-05-05_Diagnostyka_morfologia_krwi_05-2018.pdf,
+2018-05-05,MCV,87,fL,79,92,,Diagnostyka,2018-05-05_Diagnostyka_morfologia_krwi_05-2018.pdf,
+2018-05-05,MCH,30,pg,26,32,,Diagnostyka,2018-05-05_Diagnostyka_morfologia_krwi_05-2018.pdf,
+2018-05-05,MCHC,34.0,g/dL,32.3,36.5,,Diagnostyka,2018-05-05_Diagnostyka_morfologia_krwi_05-2018.pdf,
+2018-05-05,płytki,248,tys/µL,150,400,,Diagnostyka,2018-05-05_Diagnostyka_morfologia_krwi_05-2018.pdf,
+2018-05-05,RDW,13.3,%,11.6,14.4,,Diagnostyka,2018-05-05_Diagnostyka_morfologia_krwi_05-2018.pdf,
+2018-05-05,PDW,12.7,fL,9.8,16.1,,Diagnostyka,2018-05-05_Diagnostyka_morfologia_krwi_05-2018.pdf,
+2018-05-05,MPV,11.1,fL,9.4,12.6,,Diagnostyka,2018-05-05_Diagnostyka_morfologia_krwi_05-2018.pdf,
+2018-05-05,P-LCR,33.4,%,19.2,47.0,,Diagnostyka,2018-05-05_Diagnostyka_morfologia_krwi_05-2018.pdf,
+2018-05-05,neutrofile,2.97,tys/µL,2.00,7.00,,Diagnostyka,2018-05-05_Diagnostyka_morfologia_krwi_05-2018.pdf,
+2018-05-05,limfocyty,2.7,tys/µL,1.0,3.0,,Diagnostyka,2018-05-05_Diagnostyka_morfologia_krwi_05-2018.pdf,
+2018-05-05,monocyty,0.35,tys/µL,0.20,1.00,,Diagnostyka,2018-05-05_Diagnostyka_morfologia_krwi_05-2018.pdf,
+2018-05-05,eozynofile,0.16,tys/µL,0.02,0.50,,Diagnostyka,2018-05-05_Diagnostyka_morfologia_krwi_05-2018.pdf,
+2018-05-05,bazofile,0.02,tys/µL,0.02,0.10,,Diagnostyka,2018-05-05_Diagnostyka_morfologia_krwi_05-2018.pdf,
+2018-05-05,neutrofile %,47.6,%,40.0,80.0,,Diagnostyka,2018-05-05_Diagnostyka_morfologia_krwi_05-2018.pdf,
+2018-05-05,limfocyty %,43.9,%,20.0,40.0,H,Diagnostyka,2018-05-05_Diagnostyka_morfologia_krwi_05-2018.pdf,
+2018-05-05,monocyty %,5.6,%,2.0,10.0,,Diagnostyka,2018-05-05_Diagnostyka_morfologia_krwi_05-2018.pdf,
+2018-05-05,eozynofile %,2.6,%,1.0,6.0,,Diagnostyka,2018-05-05_Diagnostyka_morfologia_krwi_05-2018.pdf,
+2018-05-05,bazofile %,0.3,%,0.0,2.0,,Diagnostyka,2018-05-05_Diagnostyka_morfologia_krwi_05-2018.pdf,
+2018-05-05,cholesterol całkowity,191.40,mg/dL,115.00,190.00,H,Diagnostyka,2018-05-05_Diagnostyka_morfologia_krwi_05-2018.pdf,
+2018-05-05,glukoza,95.0,mg/dL,70.0,99.0,,Diagnostyka,2018-05-05_Diagnostyka_morfologia_krwi_05-2018.pdf,
+2018-05-05,TSH,2.300,µIU/mL,0.270,4.200,,Diagnostyka,2018-05-05_Diagnostyka_morfologia_krwi_05-2018.pdf,
+2018-05-05,OB,3,mm/h,2,12,,Diagnostyka,2018-05-05_Diagnostyka_ob_05-2018.pdf,
+2018-05-18,wymaz – posiew mykologiczny,brak wzrostu grzybów drożdżopodobnych,,,,,Diagnostyka,2018-05-18_Diagnostyka_wymaz_05-2018.pdf,"wymaz spod napletka; tekst w PDF zakodowany, odczytany po dekodowaniu"
+2020-02-07,leukocyty,5.7,tys/µL,4.2,9.1,,Diagnostyka,2020-02-07_Diagnostyka_morfologia_02-2020.pdf,
+2020-02-07,erytrocyty,4.9,mln/µL,4.6,6.1,,Diagnostyka,2020-02-07_Diagnostyka_morfologia_02-2020.pdf,
+2020-02-07,hemoglobina,14.8,g/dL,13.7,17.5,,Diagnostyka,2020-02-07_Diagnostyka_morfologia_02-2020.pdf,
+2020-02-07,hematokryt,43,%,40,51,,Diagnostyka,2020-02-07_Diagnostyka_morfologia_02-2020.pdf,
+2020-02-07,MCV,87,fL,79,92,,Diagnostyka,2020-02-07_Diagnostyka_morfologia_02-2020.pdf,
+2020-02-07,MCH,30,pg,26,32,,Diagnostyka,2020-02-07_Diagnostyka_morfologia_02-2020.pdf,
+2020-02-07,MCHC,34.3,g/dL,32.3,36.5,,Diagnostyka,2020-02-07_Diagnostyka_morfologia_02-2020.pdf,
+2020-02-07,płytki,264,tys/µL,150,400,,Diagnostyka,2020-02-07_Diagnostyka_morfologia_02-2020.pdf,
+2020-02-07,RDW,12.7,%,11.6,14.4,,Diagnostyka,2020-02-07_Diagnostyka_morfologia_02-2020.pdf,
+2020-02-07,PDW,12.7,fL,9.8,16.1,,Diagnostyka,2020-02-07_Diagnostyka_morfologia_02-2020.pdf,
+2020-02-07,MPV,10.7,fL,9.4,12.6,,Diagnostyka,2020-02-07_Diagnostyka_morfologia_02-2020.pdf,
+2020-02-07,P-LCR,30.9,%,19.2,47.0,,Diagnostyka,2020-02-07_Diagnostyka_morfologia_02-2020.pdf,
+2020-02-07,neutrofile,2.63,tys/µL,2.00,7.00,,Diagnostyka,2020-02-07_Diagnostyka_morfologia_02-2020.pdf,
+2020-02-07,limfocyty,2.5,tys/µL,1.0,3.0,,Diagnostyka,2020-02-07_Diagnostyka_morfologia_02-2020.pdf,
+2020-02-07,monocyty,0.40,tys/µL,0.20,1.00,,Diagnostyka,2020-02-07_Diagnostyka_morfologia_02-2020.pdf,
+2020-02-07,eozynofile,0.21,tys/µL,0.02,0.50,,Diagnostyka,2020-02-07_Diagnostyka_morfologia_02-2020.pdf,
+2020-02-07,bazofile,0.03,tys/µL,0.02,0.10,,Diagnostyka,2020-02-07_Diagnostyka_morfologia_02-2020.pdf,
+2020-02-07,neutrofile %,45.9,%,40.0,80.0,,Diagnostyka,2020-02-07_Diagnostyka_morfologia_02-2020.pdf,
+2020-02-07,limfocyty %,42.9,%,20.0,40.0,H,Diagnostyka,2020-02-07_Diagnostyka_morfologia_02-2020.pdf,
+2020-02-07,monocyty %,7.0,%,2.0,10.0,,Diagnostyka,2020-02-07_Diagnostyka_morfologia_02-2020.pdf,
+2020-02-07,eozynofile %,3.7,%,1.0,6.0,,Diagnostyka,2020-02-07_Diagnostyka_morfologia_02-2020.pdf,
+2020-02-07,bazofile %,0.5,%,0.0,2.0,,Diagnostyka,2020-02-07_Diagnostyka_morfologia_02-2020.pdf,
+2020-02-07,mocz – przejrzystość,przejrzysty,,,,,Diagnostyka,2020-02-07_Diagnostyka_morfologia_02-2020.pdf,
+2020-02-07,mocz – barwa,słomkowy,,,,,Diagnostyka,2020-02-07_Diagnostyka_morfologia_02-2020.pdf,
+2020-02-07,mocz – ciężar właściwy,1.021,g/mL,1.015,1.030,,Diagnostyka,2020-02-07_Diagnostyka_morfologia_02-2020.pdf,
+2020-02-07,mocz – pH,6.0,,5.0,7.0,,Diagnostyka,2020-02-07_Diagnostyka_morfologia_02-2020.pdf,
+2020-02-07,mocz – glukoza,nieobecna,,,,,Diagnostyka,2020-02-07_Diagnostyka_morfologia_02-2020.pdf,
+2020-02-07,mocz – ketony,0.00,mg/dL,,,,Diagnostyka,2020-02-07_Diagnostyka_morfologia_02-2020.pdf,
+2020-02-07,mocz – urobilinogen,<1,mg/dL,0.0,1.0,,Diagnostyka,2020-02-07_Diagnostyka_morfologia_02-2020.pdf,
+2020-02-07,mocz – bilirubina,nieobecna,,,,,Diagnostyka,2020-02-07_Diagnostyka_morfologia_02-2020.pdf,
+2020-02-07,mocz – białko,nieobecne,,,,,Diagnostyka,2020-02-07_Diagnostyka_morfologia_02-2020.pdf,
+2020-02-07,mocz – leukocyty,nieobecne,,,,,Diagnostyka,2020-02-07_Diagnostyka_morfologia_02-2020.pdf,wynik jakościowy
+2020-02-07,mocz – krew,nieobecna,,,,,Diagnostyka,2020-02-07_Diagnostyka_morfologia_02-2020.pdf,
+2020-02-07,mocz – azotyny,nieobecne,,,,,Diagnostyka,2020-02-07_Diagnostyka_morfologia_02-2020.pdf,
+2020-02-07,CRP,0.3,mg/L,0.0,5.0,,Diagnostyka,2020-02-07_Diagnostyka_crp_02-2020.pdf,
+2020-02-07,krztusiec IgA,<2,IU/mL,,,,Diagnostyka,2020-02-07_Diagnostyka_krztusiec_02-2020.pdf,"Bordetella pertussis, ELISA; >10 lat: ujemny <12 IU/mL"
+2022-09-03,leukocyty,4.62,tys/µL,4.23,9.07,,Diagnostyka,2022-09-03_Diagnostyka_morfologia_crp_09-2022.pdf,
+2022-09-03,erytrocyty,4.76,mln/µL,4.63,6.08,,Diagnostyka,2022-09-03_Diagnostyka_morfologia_crp_09-2022.pdf,
+2022-09-03,hemoglobina,14.4,g/dL,13.7,17.5,,Diagnostyka,2022-09-03_Diagnostyka_morfologia_crp_09-2022.pdf,
+2022-09-03,hematokryt,43.4,%,40.1,51.0,,Diagnostyka,2022-09-03_Diagnostyka_morfologia_crp_09-2022.pdf,
+2022-09-03,MCV,91.2,fL,79.0,92.2,,Diagnostyka,2022-09-03_Diagnostyka_morfologia_crp_09-2022.pdf,
+2022-09-03,MCH,30.3,pg,25.7,32.2,,Diagnostyka,2022-09-03_Diagnostyka_morfologia_crp_09-2022.pdf,
+2022-09-03,MCHC,33.2,g/dL,32.3,36.5,,Diagnostyka,2022-09-03_Diagnostyka_morfologia_crp_09-2022.pdf,
+2022-09-03,RDW,12.9,%,11.6,14.4,,Diagnostyka,2022-09-03_Diagnostyka_morfologia_crp_09-2022.pdf,
+2022-09-03,RDW-SD,43.4,fL,35.1,43.9,,Diagnostyka,2022-09-03_Diagnostyka_morfologia_crp_09-2022.pdf,
+2022-09-03,płytki,239,tys/µL,150,400,,Diagnostyka,2022-09-03_Diagnostyka_morfologia_crp_09-2022.pdf,
+2022-09-03,PDW,13.3,fL,9.8,16.1,,Diagnostyka,2022-09-03_Diagnostyka_morfologia_crp_09-2022.pdf,
+2022-09-03,MPV,10.9,fL,9.4,12.6,,Diagnostyka,2022-09-03_Diagnostyka_morfologia_crp_09-2022.pdf,
+2022-09-03,P-LCR,32.1,%,19.2,47.0,,Diagnostyka,2022-09-03_Diagnostyka_morfologia_crp_09-2022.pdf,
+2022-09-03,neutrofile,2.20,tys/µL,2.00,7.00,,Diagnostyka,2022-09-03_Diagnostyka_morfologia_crp_09-2022.pdf,
+2022-09-03,limfocyty,1.9,tys/µL,1.0,3.0,,Diagnostyka,2022-09-03_Diagnostyka_morfologia_crp_09-2022.pdf,
+2022-09-03,monocyty,0.41,tys/µL,0.20,1.00,,Diagnostyka,2022-09-03_Diagnostyka_morfologia_crp_09-2022.pdf,
+2022-09-03,eozynofile,0.12,tys/µL,0.02,0.50,,Diagnostyka,2022-09-03_Diagnostyka_morfologia_crp_09-2022.pdf,
+2022-09-03,bazofile,0.02,tys/µL,0.02,0.10,,Diagnostyka,2022-09-03_Diagnostyka_morfologia_crp_09-2022.pdf,
+2022-09-03,IG,0.00,tys/µL,0.00,0.03,,Diagnostyka,2022-09-03_Diagnostyka_morfologia_crp_09-2022.pdf,
+2022-09-03,NRBC,0.00,tys/µL,0.00,0.03,,Diagnostyka,2022-09-03_Diagnostyka_morfologia_crp_09-2022.pdf,
+2022-09-03,neutrofile %,47.6,%,40.0,80.0,,Diagnostyka,2022-09-03_Diagnostyka_morfologia_crp_09-2022.pdf,
+2022-09-03,limfocyty %,40.5,%,20.0,40.0,H,Diagnostyka,2022-09-03_Diagnostyka_morfologia_crp_09-2022.pdf,
+2022-09-03,monocyty %,8.9,%,2.0,10.0,,Diagnostyka,2022-09-03_Diagnostyka_morfologia_crp_09-2022.pdf,
+2022-09-03,eozynofile %,2.6,%,1.0,6.0,,Diagnostyka,2022-09-03_Diagnostyka_morfologia_crp_09-2022.pdf,
+2022-09-03,bazofile %,0.4,%,0.0,2.0,,Diagnostyka,2022-09-03_Diagnostyka_morfologia_crp_09-2022.pdf,
+2022-09-03,IG %,0.00,%,0.00,0.50,,Diagnostyka,2022-09-03_Diagnostyka_morfologia_crp_09-2022.pdf,
+2022-09-03,NRBC %,0.00,%,0.00,0.01,,Diagnostyka,2022-09-03_Diagnostyka_morfologia_crp_09-2022.pdf,
+2022-09-03,CRP,0.5,mg/L,0.0,5.0,,Diagnostyka,2022-09-03_Diagnostyka_morfologia_crp_09-2022.pdf,
+2023-10-11,sIgE D1 D. pteronyssinus,0.43,kU/L,,,,Diagnostyka,2023-10-11_Diagnostyka_rekombinanty_roztocze_polycheck_10_2023.pdf,Polycheck immunoblot; klasa 1
+2023-10-11,sIgE D2 D. farinae,0.62,kU/L,,,,Diagnostyka,2023-10-11_Diagnostyka_rekombinanty_roztocze_polycheck_10_2023.pdf,Polycheck immunoblot; klasa 1
+2023-10-11,sIgE Der p 1,0.32,kU/L,,,,Diagnostyka,2023-10-11_Diagnostyka_rekombinanty_roztocze_polycheck_10_2023.pdf,Polycheck immunoblot; klasa 0
+2023-10-11,sIgE Der p 2,1.40,kU/L,,,,Diagnostyka,2023-10-11_Diagnostyka_rekombinanty_roztocze_polycheck_10_2023.pdf,Polycheck immunoblot; klasa 2
+2023-10-11,sIgE Der p 10,<0.15,kU/L,,,,Diagnostyka,2023-10-11_Diagnostyka_rekombinanty_roztocze_polycheck_10_2023.pdf,Polycheck immunoblot; klasa 0
+2023-10-11,sIgE Der p 23,0.59,kU/L,,,,Diagnostyka,2023-10-11_Diagnostyka_rekombinanty_roztocze_polycheck_10_2023.pdf,Polycheck immunoblot; klasa 1
+2023-10-11,sIgE CCD,<0.15,kU/L,,,,Diagnostyka,2023-10-11_Diagnostyka_rekombinanty_roztocze_polycheck_10_2023.pdf,Polycheck immunoblot; klasa 0; marker reaktywności krzyżowej
+2025-01-14,leukocyty,4.08,tys/µL,4.23,9.07,L,Diagnostyka,2025-01-14_Diagnostyka_morfologia_01-2025.pdf,
+2025-01-14,erytrocyty,4.97,mln/µL,4.63,6.08,,Diagnostyka,2025-01-14_Diagnostyka_morfologia_01-2025.pdf,
+2025-01-14,hemoglobina,14.8,g/dL,13.7,17.5,,Diagnostyka,2025-01-14_Diagnostyka_morfologia_01-2025.pdf,
+2025-01-14,hematokryt,45.4,%,40.1,51.0,,Diagnostyka,2025-01-14_Diagnostyka_morfologia_01-2025.pdf,
+2025-01-14,MCV,91.3,fL,79.0,92.2,,Diagnostyka,2025-01-14_Diagnostyka_morfologia_01-2025.pdf,
+2025-01-14,MCH,29.8,pg,25.7,32.2,,Diagnostyka,2025-01-14_Diagnostyka_morfologia_01-2025.pdf,
+2025-01-14,MCHC,32.6,g/dL,32.3,36.5,,Diagnostyka,2025-01-14_Diagnostyka_morfologia_01-2025.pdf,
+2025-01-14,RDW,13.3,%,11.6,14.4,,Diagnostyka,2025-01-14_Diagnostyka_morfologia_01-2025.pdf,
+2025-01-14,RDW-SD,44.4,fL,35.1,43.9,H,Diagnostyka,2025-01-14_Diagnostyka_morfologia_01-2025.pdf,
+2025-01-14,płytki,256,tys/µL,150,400,,Diagnostyka,2025-01-14_Diagnostyka_morfologia_01-2025.pdf,
+2025-01-14,PDW,13.0,fL,9.8,16.1,,Diagnostyka,2025-01-14_Diagnostyka_morfologia_01-2025.pdf,
+2025-01-14,MPV,10.6,fL,9.4,12.6,,Diagnostyka,2025-01-14_Diagnostyka_morfologia_01-2025.pdf,
+2025-01-14,P-LCR,30.8,%,19.2,47.0,,Diagnostyka,2025-01-14_Diagnostyka_morfologia_01-2025.pdf,
+2025-01-14,PCT,0.3,%,0.2,0.4,,Diagnostyka,2025-01-14_Diagnostyka_morfologia_01-2025.pdf,
+2025-01-14,neutrofile,1.76,tys/µL,2.00,7.00,L,Diagnostyka,2025-01-14_Diagnostyka_morfologia_01-2025.pdf,
+2025-01-14,limfocyty,1.9,tys/µL,1.0,3.0,,Diagnostyka,2025-01-14_Diagnostyka_morfologia_01-2025.pdf,
+2025-01-14,monocyty,0.28,tys/µL,0.20,1.00,,Diagnostyka,2025-01-14_Diagnostyka_morfologia_01-2025.pdf,
+2025-01-14,eozynofile,0.16,tys/µL,0.02,0.50,,Diagnostyka,2025-01-14_Diagnostyka_morfologia_01-2025.pdf,
+2025-01-14,bazofile,0.02,tys/µL,0.02,0.10,,Diagnostyka,2025-01-14_Diagnostyka_morfologia_01-2025.pdf,
+2025-01-14,IG,0.00,tys/µL,0.00,0.03,,Diagnostyka,2025-01-14_Diagnostyka_morfologia_01-2025.pdf,
+2025-01-14,NRBC,0.00,tys/µL,0.00,0.03,,Diagnostyka,2025-01-14_Diagnostyka_morfologia_01-2025.pdf,
+2025-01-14,neutrofile %,43.1,%,40.0,80.0,,Diagnostyka,2025-01-14_Diagnostyka_morfologia_01-2025.pdf,
+2025-01-14,limfocyty %,45.6,%,20.0,40.0,H,Diagnostyka,2025-01-14_Diagnostyka_morfologia_01-2025.pdf,
+2025-01-14,monocyty %,6.9,%,2.0,10.0,,Diagnostyka,2025-01-14_Diagnostyka_morfologia_01-2025.pdf,
+2025-01-14,eozynofile %,3.9,%,1.0,6.0,,Diagnostyka,2025-01-14_Diagnostyka_morfologia_01-2025.pdf,
+2025-01-14,bazofile %,0.5,%,0.0,2.0,,Diagnostyka,2025-01-14_Diagnostyka_morfologia_01-2025.pdf,
+2025-01-14,IG %,0.00,%,0.00,0.50,,Diagnostyka,2025-01-14_Diagnostyka_morfologia_01-2025.pdf,
+2025-01-14,NRBC %,0.00,%,0.00,0.01,,Diagnostyka,2025-01-14_Diagnostyka_morfologia_01-2025.pdf,
+2025-01-14,ferrytyna,85.60,ng/mL,30.00,400.00,,Diagnostyka,2025-01-14_Diagnostyka_ferrytyna_01-2025.pdf,
+2025-01-14,ALT,23,U/L,0,41,,Diagnostyka,2025-01-14_Diagnostyka_ferrytyna_01-2025.pdf,
+2025-01-14,AST,27,U/L,0,40,,Diagnostyka,2025-01-14_Diagnostyka_ferrytyna_01-2025.pdf,
+2025-01-14,cholesterol całkowity,214.00,mg/dL,115.00,190.00,H,Diagnostyka,2025-01-14_Diagnostyka_ferrytyna_01-2025.pdf,
+2025-01-14,HDL,64.20,mg/dL,,,,Diagnostyka,2025-01-14_Diagnostyka_ferrytyna_01-2025.pdf,lab: stężenie zalecane >40
+2025-01-14,nie-HDL,149.80,mg/dL,,,,Diagnostyka,2025-01-14_Diagnostyka_ferrytyna_01-2025.pdf,lab: zalecane <130 przy umiarkowanym ryzyku s-n
+2025-01-14,LDL,142.08,mg/dL,,,,Diagnostyka,2025-01-14_Diagnostyka_ferrytyna_01-2025.pdf,wyliczony wzorem Sampson-NIH; lab: zalecane <115 przy małym ryzyku s-n
+2025-01-14,trójglicerydy,44.00,mg/dL,,,,Diagnostyka,2025-01-14_Diagnostyka_ferrytyna_01-2025.pdf,lab: zalecane <100 na czczo
+2025-01-14,TSH,1.610,µIU/mL,0.270,4.200,,Diagnostyka,2025-01-14_Diagnostyka_ferrytyna_01-2025.pdf,
+2025-01-14,HBsAg,niereaktywny,,,,,Diagnostyka,2025-01-14_Diagnostyka_borelioza_01-2025.pdf,
+2025-01-14,borelioza IgG,<5,AU/mL,,,,Diagnostyka,2025-01-14_Diagnostyka_borelioza_01-2025.pdf,"ujemny <10, niejednoznaczny 10-15, dodatni >15"
+2025-01-14,borelioza IgM,9.1,AU/mL,,,,Diagnostyka,2025-01-14_Diagnostyka_borelioza_01-2025.pdf,"ujemny <18, niejednoznaczny 18-22, dodatni >22"
+2025-01-14,glukoza,84.9,mg/dL,70.0,99.0,,Diagnostyka,2025-01-14_Diagnostyka_glukoza_01-2025.pdf,
+2025-01-14,anty-HCV,niereaktywny,,,,,Diagnostyka,2025-01-14_Diagnostyka_hcv_01-2025.pdf,
+2025-01-14,mocz – przejrzystość,przejrzysty,,,,,Diagnostyka,2025-01-14_Diagnostyka_mocz_01-2025.pdf,
+2025-01-14,mocz – barwa,jasnożółty,,,,,Diagnostyka,2025-01-14_Diagnostyka_mocz_01-2025.pdf,
+2025-01-14,mocz – ciężar właściwy,1.025,g/mL,1.005,1.030,,Diagnostyka,2025-01-14_Diagnostyka_mocz_01-2025.pdf,
+2025-01-14,mocz – pH,5.5,,5.0,7.5,,Diagnostyka,2025-01-14_Diagnostyka_mocz_01-2025.pdf,
+2025-01-14,mocz – glukoza,nie wykryto,,,,,Diagnostyka,2025-01-14_Diagnostyka_mocz_01-2025.pdf,
+2025-01-14,mocz – ketony,nie wykryto,,,,,Diagnostyka,2025-01-14_Diagnostyka_mocz_01-2025.pdf,
+2025-01-14,mocz – urobilinogen,<1,mg/dL,0.0,1.0,,Diagnostyka,2025-01-14_Diagnostyka_mocz_01-2025.pdf,
+2025-01-14,mocz – bilirubina,nie wykryto,,,,,Diagnostyka,2025-01-14_Diagnostyka_mocz_01-2025.pdf,
+2025-01-14,mocz – białko,nie wykryto,,,,,Diagnostyka,2025-01-14_Diagnostyka_mocz_01-2025.pdf,
+2025-01-14,mocz – leukocyty,nie wykryto,,,,,Diagnostyka,2025-01-14_Diagnostyka_mocz_01-2025.pdf,wynik jakościowy
+2025-01-14,mocz – krew,nie wykryto,,,,,Diagnostyka,2025-01-14_Diagnostyka_mocz_01-2025.pdf,
+2025-01-14,mocz – azotyny,nie wykryto,,,,,Diagnostyka,2025-01-14_Diagnostyka_mocz_01-2025.pdf,
+2025-01-21,witamina B12,810.00,pg/mL,197.00,771.00,H,Diagnostyka,2025-01-21_Diagnostyka_wit_b12_01-2025.pdf,
+2025-01-21,kwas foliowy,14.40,ng/mL,3.89,26.80,,Diagnostyka,2025-01-21_Diagnostyka_wit_b12_01-2025.pdf,
+2025-01-21,witamina D,43.10,ng/mL,,,,Diagnostyka,2025-01-21_Diagnostyka_wit_d3_01-2025.pdf,"lab (PTE): 30-50 optymalne, >20-30 suboptymalne, 0-20 deficyt"
+2025-02-13,TSH,2.280,µIU/mL,0.270,4.200,,Diagnostyka,2025-02-13_Diagnostyka_fsh_inne_02-2025.pdf,
+2025-02-13,fT3,3.61,pg/mL,2.00,4.40,,Diagnostyka,2025-02-13_Diagnostyka_fsh_inne_02-2025.pdf,
+2025-02-13,fT4,1.47,ng/dL,0.93,1.70,,Diagnostyka,2025-02-13_Diagnostyka_fsh_inne_02-2025.pdf,
+2025-02-13,FSH,8.46,mIU/mL,1.50,12.40,,Diagnostyka,2025-02-13_Diagnostyka_fsh_inne_02-2025.pdf,
+2025-02-13,LH,3.90,mIU/mL,1.70,8.60,,Diagnostyka,2025-02-13_Diagnostyka_fsh_inne_02-2025.pdf,
+2025-02-13,prolaktyna,236,mIU/L,86,324,,Diagnostyka,2025-02-13_Diagnostyka_fsh_inne_02-2025.pdf,jednostka mIU/L (nie ng/mL)
+2025-02-13,testosteron całkowity,516.00,ng/dL,249.00,836.00,,Diagnostyka,2025-02-13_Diagnostyka_fsh_inne_02-2025.pdf,jednostka ng/dL (516 ng/dL = 5.16 ng/mL)
+2025-02-13,kortyzol,12.90,µg/dL,4.82,19.5,,Diagnostyka,2025-02-13_Diagnostyka_fsh_inne_02-2025.pdf,pobranie 09:14; norma dla godz. 6-10
+2025-02-13,GH,<0.05,ng/mL,0.00,3.00,,Diagnostyka,2025-02-13_Diagnostyka_gh_02-2025.pdf,lab: pojedynczy pomiar bez wartości diagnostycznej (wyrzuty pulsacyjne)
+2025-03-12,kreatynina,1.00,mg/dL,0.70,1.20,,Diagnostyka,2025-03-12_Diagnostyka_kreatynina_03-2025.pdf,
+2025-03-12,eGFR,>90,mL/min/1.73m²,,,,Diagnostyka,2025-03-12_Diagnostyka_kreatynina_03-2025.pdf,CKD-EPI
+2026-04-30,kreatynina,1.08,mg/dL,0.70,1.20,,Diagnostyka,2026-04-30_Diagnostyka_kreatynina_04-2025.pdf,
+2026-04-30,eGFR,>90,mL/min/1.73m²,,,,Diagnostyka,2026-04-30_Diagnostyka_kreatynina_04-2025.pdf,"CKD-EPI; plik nazwany 04-2025, data pobrania z dokumentu 2026-04-30"
+2012-02-22,APTT,25.7,s,,,,Szpital Wojewódzki Siedlce,2012-02-28_SzpitalSiedlce_wypis_ze_szpitala.jpg,jednostka i norma nie podane w wypisie; jednostka założona
+2012-02-22,PT,14.0,s,,,,Szpital Wojewódzki Siedlce,2012-02-28_SzpitalSiedlce_wypis_ze_szpitala.jpg,jednostka i norma nie podane w wypisie; jednostka założona
+2012-02-22,INR,1.0,,,,,Szpital Wojewódzki Siedlce,2012-02-28_SzpitalSiedlce_wypis_ze_szpitala.jpg,norma nie podana w wypisie
+2012-02-22,wskaźnik protrombinowy,104,%,,,,Szpital Wojewódzki Siedlce,2012-02-28_SzpitalSiedlce_wypis_ze_szpitala.jpg,jednostka i norma nie podane w wypisie; jednostka założona
+2012-02-22,TT,15.5,s,,,,Szpital Wojewódzki Siedlce,2012-02-28_SzpitalSiedlce_wypis_ze_szpitala.jpg,jednostka i norma nie podane w wypisie; jednostka założona
+2012-02-22,fibrynogen,202.0,mg/dL,,,,Szpital Wojewódzki Siedlce,2012-02-28_SzpitalSiedlce_wypis_ze_szpitala.jpg,jednostka i norma nie podane w wypisie; jednostka założona
+2012-02-22,glukoza,96.1,mg/dL,,,,Szpital Wojewódzki Siedlce,2012-02-28_SzpitalSiedlce_wypis_ze_szpitala.jpg,jednostka i norma nie podane w wypisie; jednostka założona
+2012-02-22,kreatynina,0.94,mg/dL,,,,Szpital Wojewódzki Siedlce,2012-02-28_SzpitalSiedlce_wypis_ze_szpitala.jpg,jednostka i norma nie podane w wypisie; jednostka założona
+2012-02-22,mocznik,32.8,mg/dL,,,,Szpital Wojewódzki Siedlce,2012-02-28_SzpitalSiedlce_wypis_ze_szpitala.jpg,jednostka i norma nie podane w wypisie; jednostka założona
+2012-02-22,leukocyty,4.69,tys/µL,,,,Szpital Wojewódzki Siedlce,2012-02-28_SzpitalSiedlce_wypis_ze_szpitala.jpg,jednostka i norma nie podane w wypisie; jednostka założona
+2012-02-22,erytrocyty,4.7,mln/µL,,,,Szpital Wojewódzki Siedlce,2012-02-28_SzpitalSiedlce_wypis_ze_szpitala.jpg,jednostka i norma nie podane w wypisie; jednostka założona
+2012-02-22,hemoglobina,14.0,g/dL,,,,Szpital Wojewódzki Siedlce,2012-02-28_SzpitalSiedlce_wypis_ze_szpitala.jpg,jednostka i norma nie podane w wypisie; jednostka założona
+2012-02-22,hematokryt,40.7,%,,,,Szpital Wojewódzki Siedlce,2012-02-28_SzpitalSiedlce_wypis_ze_szpitala.jpg,jednostka i norma nie podane w wypisie; jednostka założona
+2012-02-22,płytki,260.0,tys/µL,,,,Szpital Wojewódzki Siedlce,2012-02-28_SzpitalSiedlce_wypis_ze_szpitala.jpg,jednostka i norma nie podane w wypisie; jednostka założona
+2012-02-22,potas,3.9,mmol/L,,,,Szpital Wojewódzki Siedlce,2012-02-28_SzpitalSiedlce_wypis_ze_szpitala.jpg,jednostka i norma nie podane w wypisie; jednostka założona
+2012-02-22,sód,138.9,mmol/L,,,,Szpital Wojewódzki Siedlce,2012-02-28_SzpitalSiedlce_wypis_ze_szpitala.jpg,jednostka i norma nie podane w wypisie; jednostka założona
