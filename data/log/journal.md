@@ -193,3 +193,11 @@ Wpisy chronologicznie, najnowsze na dole. Objawy, samopoczucie, energia, stres, 
 
 ## 2026-10-23
 - objawy: infekcja – wygasa; ból gardła 1/10, osłabienie 1/10
+
+## 2026-10-26
+- notatki: wywiad rodzinny – wada serca stryja (młodszy brat taty, nagły zgon w 43 r.ż.) to kardiomiopatia (typ nieznany). Zaktualizowano `profile/profile.md`.
+- notatki: rano kreatyna TREC CM3 – standardowa porcja (3000 mg kreatyny)
+- notatki: śniadanie – porcja odżywki białkowej (Olimp Pure Whey Isolate 95), garść szpinaku, ćwiartka gruszki, garść borówek, 200 ml mleka owsianego (~275 kcal, ~33 g białka – szczegóły w `data/nutrition/log.csv`)
+- notatki: obiad – 107 g makaronu 4-jajecznego świderki, 190 g pieczonej piersi z indyka, 20 g sosu na bazie śmietany 30%, 160 g ogórka zielonego, 3 łyżki jogurtu naturalnego (~790 kcal, ~75 g białka – szczegóły w `data/nutrition/log.csv`)
+- notatki: przed kolacją – kromka chleba żytniego z masłem śmietankowym, pół cynamonki (~305 kcal – szczegóły w `data/nutrition/log.csv`)
+- notatki: kolacja – 1.5 cienkiej kiełbasy pieczonej, 1.5 kromki chleba żytniego, 1 ogórek kiszony (~420 kcal, ~16 g białka – szczegóły w `data/nutrition/log.csv`)

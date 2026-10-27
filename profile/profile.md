@@ -29,10 +29,10 @@
   - **Wujek – brat mamy:** brak istotnych chorób.
   - **Babcia ze strony taty** (zm. 2001, 62 l.): guz mózgu (typ i wiek wykrycia – *do ustalenia*); poza tym bez chorób przewlekłych.
   - **Dziadek ze strony taty** (zm. 2003, 72 l.): choroba wieńcowa od ok. 1991–1993 (~60 r.ż.), 3–4 zawały, niewydolność serca; zgon z powodu kolejnego zawału.
-  - **Młodszy brat taty:** ⚠️ zasłabł i zmarł w wieku 43 lat – nagły zgon sercowy; stwierdzono wrodzoną wadę serca (rodzaj – *do ustalenia*).
+  - **Młodszy brat taty:** ⚠️ zasłabł i zmarł w wieku 43 lat – nagły zgon sercowy; choroba serca: **kardiomiopatia** (wg Michała, 2026-10-26; typ – przerostowa/rozstrzeniowa/arytmogenna – *do ustalenia*; wcześniej zapisane jako „wrodzona wada serca”).
   - **Starszy brat taty:** zmarł w wieku 66 lat nagle w nocy we śnie (przyczyna nieznana); dużo palił i pił.
   - Pytania kontrolne: brak w rodzinie tętniaków/krwotoków/udarów < 60 r.ż., innych nagłych zgonów < 50 r.ż. lub wczesnych zawałów, innych nowotworów, zwichnięć rzepki/wiotkości stawów; choroby tarczycy/genetyczne – raczej nie.
-  - **Wzorce:** (1) linia ojca – obciążenie kardiologiczne (nagły zgon sercowy stryja w 43 r.ż. z wadą wrodzoną, choroba wieńcowa dziadka od ~60 r.ż., nagły zgon nocny drugiego stryja w 66 r.ż.); (2) linia matki – niewydolność żylna (mama, dziadek); (3) atopia – siostra (zatoki, roztocza) jak u Michała.
+  - **Wzorce:** (1) linia ojca – obciążenie kardiologiczne (nagły zgon sercowy stryja w 43 r.ż. z kardiomiopatią – choroba często dziedziczna, choroba wieńcowa dziadka od ~60 r.ż., nagły zgon nocny drugiego stryja w 66 r.ż.); (2) linia matki – niewydolność żylna (mama, dziadek); (3) atopia – siostra (zatoki, roztocza) jak u Michała.
 
 ## Styl życia
 
