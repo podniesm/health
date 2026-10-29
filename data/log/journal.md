@@ -201,3 +201,6 @@ Wpisy chronologicznie, najnowsze na dole. Objawy, samopoczucie, energia, stres, 
 - notatki: obiad – 107 g makaronu 4-jajecznego świderki, 190 g pieczonej piersi z indyka, 20 g sosu na bazie śmietany 30%, 160 g ogórka zielonego, 3 łyżki jogurtu naturalnego (~790 kcal, ~75 g białka – szczegóły w `data/nutrition/log.csv`)
 - notatki: przed kolacją – kromka chleba żytniego z masłem śmietankowym, pół cynamonki (~305 kcal – szczegóły w `data/nutrition/log.csv`)
 - notatki: kolacja – 1.5 cienkiej kiełbasy pieczonej, 1.5 kromki chleba żytniego, 1 ogórek kiszony (~420 kcal, ~16 g białka – szczegóły w `data/nutrition/log.csv`)
+
+## 2026-10-28
+- objawy: po obiedzie silne wzdęcia (obiad: zupa z soczewicy 350 g, kotlet panierowany z kurczaka 150 g, frytki 80 g, surówka z białej kapusty 100 g – szczegóły w `data/nutrition/log.csv`)
