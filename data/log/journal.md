@@ -204,3 +204,6 @@ Wpisy chronologicznie, najnowsze na dole. Objawy, samopoczucie, energia, stres, 
 
 ## 2026-10-28
 - objawy: po obiedzie silne wzdęcia (obiad: zupa z soczewicy 350 g, kotlet panierowany z kurczaka 150 g, frytki 80 g, surówka z białej kapusty 100 g – szczegóły w `data/nutrition/log.csv`)
+
+## 2026-10-30
+- notatki: noc 29/30.10 – przed snem seks (zaśnięcie 00:46, sen 6.23 h, score 85 – `data/body/sleep.csv`)
