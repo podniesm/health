@@ -212,3 +212,6 @@ Wpisy chronologicznie, najnowsze na dole. Objawy, samopoczucie, energia, stres, 
 - notatki: noc 2/3.11 – przed snem seks ok. 23:30 (zaśnięcie 00:41, sen 6.18 h, score 85 – `data/body/sleep.csv`)
 - objawy: kolano prawe – ból 0/10 po biegu (bieg 5.74 km / 41 min, śr. HR 144, z Garmina)
 - notatki: bieg spokojny bez przebieżek (plan zakładał 6×20 s)
+
+## 2026-11-04
+- objawy: kolano prawe – ból 0/10 po siłowni (FBW 64 min, RPE 6 – `data/training/activities.csv`)
