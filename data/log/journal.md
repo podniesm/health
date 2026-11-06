@@ -215,3 +215,6 @@ Wpisy chronologicznie, najnowsze na dole. Objawy, samopoczucie, energia, stres, 
 
 ## 2026-11-04
 - objawy: kolano prawe – ból 0/10 po siłowni (FBW 64 min, RPE 6 – `data/training/activities.csv`)
+
+## 2026-11-06
+- objawy: kolano prawe – ból 1/10 po biegu (bieg 8.66 km / 60 min, śr. HR 148, z Garmina); pierwszy niezerowy wpis bólu kolana od 2026-09-23
