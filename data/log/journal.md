@@ -221,3 +221,7 @@ Wpisy chronologicznie, najnowsze na dole. Objawy, samopoczucie, energia, stres, 
 
 ## 2026-11-06
 - objawy: kolano prawe – ból 1/10 po biegu (bieg 8.66 km / 60 min, śr. HR 148, z Garmina); pierwszy niezerowy wpis bólu kolana od 2026-09-23
+
+## 2026-11-07
+- notatki: wieczorem wylot z Polski na Mauritius, łącznie ok. 15 h podróży. Strefa czasowa: Mauritius UTC+4, Polska UTC+1, czyli +3 h. Noc 7/8.11 w samolocie (sen 2.1 h, score 17 – `data/body/sleep.csv`).
+- notatki: urlop od 2026-11-07 wieczorem do 2026-11-15 włącznie (15.11 lądowanie w Polsce). W tym czasie bez zapisu diety i bez ważenia. Treningi – w miarę możliwości, priorytetem jest odpoczynek.
