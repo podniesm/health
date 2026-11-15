@@ -225,3 +225,7 @@ Wpisy chronologicznie, najnowsze na dole. Objawy, samopoczucie, energia, stres, 
 ## 2026-11-07
 - notatki: wieczorem wylot z Polski na Mauritius, łącznie ok. 15 h podróży. Strefa czasowa: Mauritius UTC+4, Polska UTC+1, czyli +3 h. Noc 7/8.11 w samolocie (sen 2.1 h, score 17 – `data/body/sleep.csv`).
 - notatki: urlop od 2026-11-07 wieczorem do 2026-11-15 włącznie (15.11 lądowanie w Polsce). W tym czasie bez zapisu diety i bez ważenia. Treningi – w miarę możliwości, priorytetem jest odpoczynek.
+
+## 2026-11-14
+- notatki: powrót z Mauritiusa – lot ok. 11 h do Frankfurtu (lądowanie 17:00 czasu polskiego; wylot wyliczony na ok. 06:00 PL = 09:00 czasu Mauritiusa), przesiadka ok. 4 h, lot Frankfurt → Warszawa 21:00–22:30. Łącznie ok. 16,5 h podróży. Powrót dzień wcześniej, niż zakładał wpis z 2026-11-07 (15.11).
+- notatki: noc 13/14.11 krótka przed wylotem (sen 4.47 h, pobudka 03:58, score 60), drzemka 46 min – prawdopodobnie w samolocie. Noc 14/15.11 już w Polsce (00:40–06:13, 5.52 h, score 71 – `data/body/sleep.csv`).
