@@ -29,6 +29,7 @@ health/
 │   ├── body/measurements.csv ← waga, skład ciała, ciśnienie, tętno spoczynkowe, HRV
 │   ├── body/sleep.csv
 │   ├── nutrition/log.csv
+│   ├── nutrition/products.csv ← baza produktów: makro z etykiet (zdjęcia w makro/)
 │   └── log/journal.md        ← dziennik: objawy, samopoczucie, notatki
 ├── inbox/                    ← TU użytkownik wrzuca surowe pliki (PDF, zdjęcia, eksporty)
 ├── archive/                  ← przetworzone pliki źródłowe (archive/<typ>/<rok>/)
@@ -82,6 +83,15 @@ date,time,meal,description,kcal,protein_g,carbs_g,fat_g,notes
 ```
 - `time` – godzina posiłku `HH:MM`, jeśli znana (podana przez użytkownika albo wynika z kontekstu, np. godzina wiadomości przy „właśnie zjadłem”); nie zgaduj – brak godziny = puste pole. Przy wpisie bez godziny dopytaj krótko w potwierdzeniu.
 - `meal` – `śniadanie`, `obiad`, `kolacja`, `przekąska`, `suplement`, `dzień` (podsumowanie dnia).
+
+### `data/nutrition/products.csv`
+```
+date,name,brand,state,basis_g,kcal,protein_g,carbs_g,sugars_g,fiber_g,fat_g,sat_fat_g,salt_g,portion_g,source,notes
+```
+- Baza produktów z etykiet – przy wpisie do `log.csv` najpierw szukaj produktu tutaj.
+- `date` – data dodania (lub pierwszego użycia produktu), `state` – `suchy`, `ugotowana`, `gotowy`, `proszek` (do czego odnoszą się wartości).
+- `basis_g` – ilość, na którą podano wartości (zwykle 100; inaczej, gdy etykieta podaje tylko porcję). `portion_g` – porcja/sztuka/opakowanie wg etykiety.
+- Wartości „<0.5” itp. – pole puste, dokładny zapis w `notes`. Zdjęcie etykiety zapisuj w `makro/` i podaj w `source`.
 
 ### `data/log/journal.md`
 Wpisy chronologicznie, najnowsze na dole:

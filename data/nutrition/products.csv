@@ -1,0 +1,17 @@
+date,name,brand,state,basis_g,kcal,protein_g,carbs_g,sugars_g,fiber_g,fat_g,sat_fat_g,salt_g,portion_g,source,notes
+2026-11-16,kasza gryczana prażona,,ugotowana,100,109,4.2,20,0,2.6,0.8,0.2,0,130,makro/kasza_gryczana_makro.jpg,"wartości po ugotowaniu; porcja 130 g ugotowanej; opakowanie 400 g = 8 porcji → porcja ok. 50 g suchej (wyliczone, dalsza część zdania na etykiecie niewidoczna); magnez 81.9 mg/100 g"
+2026-10-28,wafel ryżowy,,gotowy,100,381,7.7,80,1.3,3.3,2.6,0.6,,10,makro/wafel_ryzowy_makro.jpg,"sól <0.01 g/100 g; 1 szt. ~10 g; opakowanie 12 porcji; zdjęcie z 2026-11-16 (ten sam produkt co 2026-10-28)"
+2026-10-08,burrata,,gotowy,100,235,10,1.5,1.5,,21,14,0.70,,makro/burrata_makro.jpeg,
+2026-10-08,Wasa Lekkie Żytnie (pieczywo chrupkie),Wasa,gotowy,100,361,11,67,6.0,13,2.5,0.3,1.0,5.6,makro/pieczywo_chrupkie_makro.jpeg,1 kromka 5.6 g; opakowanie ok. 20 kromek
+2026-10-08,ser Królewski z Kolna,Mlekpol,gotowy,100,347,26,0,0,,27,17,1.3,30,makro/ser_żółty_makro.jpeg,porcja 30 g = 1 plasterek (podane 2026-10-28); wapń 820 mg/100 g; opakowanie 400 g
+2026-10-27,serek wiejski wysokobiałkowy,Piątnica,gotowy,200,185,28,4.8,4.0,,6.0,4.0,1.4,200,zdjęcie etykiety (log.csv 2026-10-27),wartości na opakowanie 200 g
+2026-11-05,serek wiejski lekki,Piątnica,gotowy,100,81,11,2.4,2.0,,3.0,2.0,0.70,150,zdjęcie etykiety (log.csv 2026-11-05),opakowanie 150 g
+2026-10-07,Pure Whey Isolate 95,Olimp,proszek,35,123,30,0.5,,,0.5,,,35,etykieta (log.csv),wartości na porcję 35 g
+2026-11-02,mozzarella light,Galbani,gotowy,100,165,19,2,,,9,6.3,0.7,125,zdjęcie etykiety (log.csv 2026-11-02),opakowanie 125 g
+2026-11-03,twaróg wiejski chudy,Piątnica,gotowy,100,90,19,3.5,,,0,,,,zdjęcie etykiety (log.csv 2026-11-03),
+2026-10-26,makaron 4-jajeczny świderki,,suchy,100,369,13,72,,2.4,2.7,,,,zdjęcie etykiety (log.csv 2026-10-26),wartości dla suchego produktu
+2026-10-31,Fuet Extra,Biedronka,gotowy,100,422,27,1.4,,,34,,3.7,,zdjęcie etykiety (log.csv 2026-10-31),
+2026-11-06,żelki,,gotowy,100,337,3.2,80,52,,,,0.05,,zdjęcie etykiety (log.csv 2026-11-06),"tłuszcz <0.5 g, nasycone <0.1 g/100 g; producent nieznany"
+2026-11-06,Pausa Ciok,,gotowy,100,423,5.3,59,36,1.1,18,11,0.42,35,zdjęcie etykiety (log.csv 2026-11-06),1 batonik 35 g
+2026-11-06,wafelki z kremem z orzeszków arachidowych,,gotowy,100,551,8.9,59,35,3.4,30,15,0.20,8,zdjęcie etykiety (log.csv 2026-11-06),nazwa produktu niewidoczna; 1 szt. = 8 g (założone z porcji na etykiecie)
+2026-11-06,Chocolate O's,Schär,gotowy,100,499,6.6,62,31,4.1,24,15,1.0,6,zdjęcie etykiety (log.csv 2026-11-06),bezglutenowe herbatniki kakaowe z nadzieniem; 1 szt. = 6 g

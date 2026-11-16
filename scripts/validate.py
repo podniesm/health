@@ -47,6 +47,12 @@ SCHEMAS: dict[str, tuple[list[str], list[str], list[str]]] = {
         ["kcal", "protein_g", "carbs_g", "fat_g"],
         [],
     ),
+    "nutrition/products.csv": (
+        ["date", "name", "brand", "state", "basis_g", "kcal", "protein_g", "carbs_g", "sugars_g", "fiber_g",
+         "fat_g", "sat_fat_g", "salt_g", "portion_g", "source", "notes"],
+        ["basis_g", "kcal", "protein_g", "carbs_g", "sugars_g", "fiber_g", "fat_g", "sat_fat_g", "salt_g", "portion_g"],
+        ["name", "brand", "state"],
+    ),
 }
 
 ACTIVITY_TYPES = {"bieg", "rower", "pływanie", "siłownia", "spacer", "wędrówka", "narty", "inne"}
