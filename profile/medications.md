@@ -12,7 +12,7 @@ Asystent sprawdza ten plik przy interpretacji badań (np. witamina D, B12, żela
 | Magne B6 Forte (magnez + wit. B6) | 1 tabl. | 1×/dzień | b.d. | samodzielnie | |
 | Olimp Gold Omega-3 | 1 kaps. | 1×/dzień | b.d. | samodzielnie | dawka EPA/DHA b.d. |
 | Enterol (Saccharomyces boulardii, probiotyk) | 1 kaps. | 1×/dzień | ok. 2026-09-23 (wg pacjenta 2026-10-07: „od dwóch tygodni”) | nieregularne wypróżnienia po okresie dużego stresu; samodzielnie | |
-| Dymista (azelastyna + flutykazon, aerozol do nosa) | b.d. | doraźnie | b.d. | zatoki/alergia; laryngolog | |
+| Dymista (azelastyna + flutykazon, aerozol do nosa) | 1 dawka do każdego otworu nosowego (wg pacjenta 2026-11-16) | doraźnie | b.d. | zatoki/alergia; laryngolog | |
 
 ## Historyczne (odstawione)
 

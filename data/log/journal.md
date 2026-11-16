@@ -229,3 +229,6 @@ Wpisy chronologicznie, najnowsze na dole. Objawy, samopoczucie, energia, stres, 
 ## 2026-11-14
 - notatki: powrót z Mauritiusa – lot ok. 11 h do Frankfurtu (lądowanie 17:00 czasu polskiego; wylot wyliczony na ok. 06:00 PL = 09:00 czasu Mauritiusa), przesiadka ok. 4 h, lot Frankfurt → Warszawa 21:00–22:30. Łącznie ok. 16,5 h podróży. Powrót dzień wcześniej, niż zakładał wpis z 2026-11-07 (15.11).
 - notatki: noc 13/14.11 krótka przed wylotem (sen 4.47 h, pobudka 03:58, score 60), drzemka 46 min – prawdopodobnie w samolocie. Noc 14/15.11 już w Polsce (00:40–06:13, 5.52 h, score 71 – `data/body/sleep.csv`).
+
+## 2026-11-16
+- notatki: 09:58 – Dymista, 1 dawka do każdego otworu nosowego (doraźnie)
