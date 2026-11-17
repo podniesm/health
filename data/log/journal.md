@@ -237,3 +237,4 @@ Wpisy chronologicznie, najnowsze na dole. Objawy, samopoczucie, energia, stres, 
 
 ## 2026-11-17
 - objawy: kolano prawe – ból 2/10 przez pierwszy km biegu, potem 0/10 (bieg 5.83 km / 42 min, śr. HR 145, z Garmina)
+- notatki: 09:56 – Dymista, 1 dawka do każdego otworu nosowego (doraźnie; dawka jak 2026-11-16 – nie podano)
