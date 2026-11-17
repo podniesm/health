@@ -234,3 +234,6 @@ Wpisy chronologicznie, najnowsze na dole. Objawy, samopoczucie, energia, stres, 
 - notatki: 09:58 – Dymista, 1 dawka do każdego otworu nosowego (doraźnie)
 - objawy: od ok. 2026-11-06 (od 10 dni, wg pacjenta) uczucie przytkania prawej strony nosa, „głębiej na zatokach”; bez kataru. Początek tuż przed wylotem na Mauritius (2026-11-07), w tym czasie 2 długie podróże samolotem. Kontekst: przewlekłe zapalenie zatok, TK 2021-06-16 – niedrożne ujście prawej zatoki czołowej, przerost prawej małżowiny dolnej.
 - notatki: 11:00 – stolec typ 4 w skali bristolskiej
+
+## 2026-11-17
+- objawy: kolano prawe – ból 2/10 przez pierwszy km biegu, potem 0/10 (bieg 5.83 km / 42 min, śr. HR 145, z Garmina)
