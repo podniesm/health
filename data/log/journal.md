@@ -242,3 +242,8 @@ Wpisy chronologicznie, najnowsze na dole. Objawy, samopoczucie, energia, stres, 
 
 ## 2026-11-18
 - notatki: 12:14 – stolec typ 4 w skali bristolskiej
+- notatki: Dymista (doraźnie; godzina i dawka nie podane)
+- objawy: kolano prawe – bez bólu po siłowni (31 min, z Garmina)
+
+## 2026-11-19
+- objawy: prawa strona nosa/zatoki praktycznie odetkana (przytkanie trwało od ok. 2026-11-06); zatyka się jedynie przy dłuższym śnie na prawym boku
