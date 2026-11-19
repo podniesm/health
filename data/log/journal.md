@@ -242,7 +242,7 @@ Wpisy chronologicznie, najnowsze na dole. Objawy, samopoczucie, energia, stres, 
 
 ## 2026-11-18
 - notatki: 12:14 – stolec typ 4 w skali bristolskiej
-- notatki: Dymista (doraźnie; godzina i dawka nie podane)
+- notatki: rano (godzina nie podana) – Dymista, 1 dawka do każdego otworu nosowego (doraźnie)
 - objawy: kolano prawe – bez bólu po siłowni (31 min, z Garmina)
 
 ## 2026-11-19
