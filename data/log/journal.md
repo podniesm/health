@@ -239,6 +239,7 @@ Wpisy chronologicznie, najnowsze na dole. Objawy, samopoczucie, energia, stres, 
 - objawy: kolano prawe – ból 2/10 przez pierwszy km biegu, potem 0/10 (bieg 5.83 km / 42 min, śr. HR 145, z Garmina)
 - notatki: 09:56 – Dymista, 1 dawka do każdego otworu nosowego (doraźnie; dawka jak 2026-11-16 – nie podano)
 - notatki: 17:15 – stolec typ 4 w skali bristolskiej
+- notatki: 21:00 – medyczna marihuana, 5 zaciągnięć z waporyzatora (ilość w g nie podana)
 
 ## 2026-11-18
 - notatki: 12:14 – stolec typ 4 w skali bristolskiej
