@@ -255,3 +255,4 @@ Wpisy chronologicznie, najnowsze na dole. Objawy, samopoczucie, energia, stres, 
 - notatki: ok. 07:55 – Dymista, 1 dawka do każdego otworu nosowego (doraźnie; dawka jak 2026-11-16 – nie podano)
 - notatki: pozycja snu w nocy 19/20.11 nieznana (pacjent nie pamięta)
 - objawy: kolano prawe – ból 0/10 po siłowni (56 min, RPE 5, z Garmina)
+- notatki: 12:37 – stolec typ 5 w skali bristolskiej
