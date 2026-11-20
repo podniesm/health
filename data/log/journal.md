@@ -254,3 +254,4 @@ Wpisy chronologicznie, najnowsze na dole. Objawy, samopoczucie, energia, stres, 
 - objawy: rano uczucie przytkania prawej zatoki, 5/10 (19.11 była praktycznie odetkana – nawrót po 1 dniu; sen 22:47–07:13, 7.87 h – `data/body/sleep.csv`)
 - notatki: ok. 07:55 – Dymista, 1 dawka do każdego otworu nosowego (doraźnie; dawka jak 2026-11-16 – nie podano)
 - notatki: pozycja snu w nocy 19/20.11 nieznana (pacjent nie pamięta)
+- objawy: kolano prawe – ból 0/10 po siłowni (56 min, RPE 5, z Garmina)
