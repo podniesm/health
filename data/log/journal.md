@@ -249,3 +249,6 @@ Wpisy chronologicznie, najnowsze na dole. Objawy, samopoczucie, energia, stres, 
 ## 2026-11-19
 - objawy: prawa strona nosa/zatoki praktycznie odetkana (przytkanie trwało od ok. 2026-11-06); zatyka się jedynie przy dłuższym śnie na prawym boku
 - objawy: kolano prawe – bez bólu po biegu (6.0 km / 44 min, śr. HR 127 – prawdopodobnie zaniżone przez czujnik, z Garmina)
+
+## 2026-11-20
+- objawy: rano uczucie przytkania prawej zatoki, 5/10 (19.11 była praktycznie odetkana – nawrót po 1 dniu; sen 22:47–07:13, 7.87 h – `data/body/sleep.csv`)
