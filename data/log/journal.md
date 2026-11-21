@@ -256,6 +256,7 @@ Wpisy chronologicznie, najnowsze na dole. Objawy, samopoczucie, energia, stres, 
 - notatki: pozycja snu w nocy 19/20.11 nieznana (pacjent nie pamięta)
 - objawy: kolano prawe – ból 0/10 po siłowni (56 min, RPE 5, z Garmina)
 - notatki: 12:37 – stolec typ 5 w skali bristolskiej
+- notatki: 19:45 – medyczna marihuana, 8 zaciągnięć z waporyzatora, temp. 200 °C (ilość w g nie podana)
 
 ## 2026-11-21
 - objawy: rano brak uczucia przytkania zatok (0/10; 20.11 rano 5/10)
