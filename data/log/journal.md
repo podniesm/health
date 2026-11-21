@@ -261,3 +261,4 @@ Wpisy chronologicznie, najnowsze na dole. Objawy, samopoczucie, energia, stres, 
 ## 2026-11-21
 - objawy: rano brak uczucia przytkania zatok (0/10; 20.11 rano 5/10)
 - notatki: w nocy 20/21.11 sen praktycznie cały czas na lewym boku (sen 22:40–07:27, 8.45 h, score 89 – `data/body/sleep.csv`); zgodne z obserwacją z 2026-11-19, że prawa strona zatyka się przy dłuższym śnie na prawym boku
+- objawy: kolano prawe – ból 1/10 po biegu (8.3 km / 59 min, śr. HR 138, z Garmina)
