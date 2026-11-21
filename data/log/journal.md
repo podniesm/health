@@ -256,3 +256,7 @@ Wpisy chronologicznie, najnowsze na dole. Objawy, samopoczucie, energia, stres, 
 - notatki: pozycja snu w nocy 19/20.11 nieznana (pacjent nie pamięta)
 - objawy: kolano prawe – ból 0/10 po siłowni (56 min, RPE 5, z Garmina)
 - notatki: 12:37 – stolec typ 5 w skali bristolskiej
+
+## 2026-11-21
+- objawy: rano brak uczucia przytkania zatok (0/10; 20.11 rano 5/10)
+- notatki: w nocy 20/21.11 sen praktycznie cały czas na lewym boku (sen 22:40–07:27, 8.45 h, score 89 – `data/body/sleep.csv`); zgodne z obserwacją z 2026-11-19, że prawa strona zatyka się przy dłuższym śnie na prawym boku
