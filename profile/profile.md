@@ -48,7 +48,7 @@
 - **Używki:**
   - alkohol: ok. 2×/mies. (2 piwa lub 1 drink)
   - tytoń: papierosy od 17 do 26 r.ż. ok. 5/dzień; 27–32 r.ż. ok. 5/tydz. (w tym ok. 9 mies. glo – podgrzewacz tytoniu); od 32 r.ż. do dziś do 5 papierosów lub glo na miesiąc. Łącznie ok. 2.5 paczkolat.
-  - marihuana medyczna: ok. 0.2 g 1×/tydz., waporyzator
+  - marihuana medyczna: ok. 0.2 g 1×/tydz., waporyzator; ilość w komorze na sesję zawsze ta sama – różni się tylko liczba zaciągnięć (2026-11-21)
   - kofeina: maks. 1 kawa lub 1 porcja yerba mate dziennie; energetyków nie pije
 - **Praca / stres:** praca siedząca, własna firma; stres 8/10, okresowo 10/10.
 

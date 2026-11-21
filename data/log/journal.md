@@ -239,7 +239,7 @@ Wpisy chronologicznie, najnowsze na dole. Objawy, samopoczucie, energia, stres, 
 - objawy: kolano prawe – ból 2/10 przez pierwszy km biegu, potem 0/10 (bieg 5.83 km / 42 min, śr. HR 145, z Garmina)
 - notatki: 09:56 – Dymista, 1 dawka do każdego otworu nosowego (doraźnie; dawka jak 2026-11-16 – nie podano)
 - notatki: 17:15 – stolec typ 4 w skali bristolskiej
-- notatki: 21:00 – medyczna marihuana, 5 zaciągnięć z waporyzatora (ilość w g nie podana)
+- notatki: 21:00 – medyczna marihuana, 5 zaciągnięć z waporyzatora (stała ilość w komorze – jak w każdej sesji)
 
 ## 2026-11-18
 - notatki: 12:14 – stolec typ 4 w skali bristolskiej
@@ -256,7 +256,7 @@ Wpisy chronologicznie, najnowsze na dole. Objawy, samopoczucie, energia, stres, 
 - notatki: pozycja snu w nocy 19/20.11 nieznana (pacjent nie pamięta)
 - objawy: kolano prawe – ból 0/10 po siłowni (56 min, RPE 5, z Garmina)
 - notatki: 12:37 – stolec typ 5 w skali bristolskiej
-- notatki: 19:45 – medyczna marihuana, 8 zaciągnięć z waporyzatora, temp. 200 °C (ilość w g nie podana)
+- notatki: 19:45 – medyczna marihuana, 8 zaciągnięć z waporyzatora, temp. 200 °C (stała ilość w komorze – jak w każdej sesji)
 
 ## 2026-11-21
 - objawy: rano brak uczucia przytkania zatok (0/10; 20.11 rano 5/10)
