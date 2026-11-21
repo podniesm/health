@@ -56,7 +56,8 @@ Asystent sprawdza ten plik przy interpretacji badań (np. witamina D, B12, żela
 | COVID-19 – I dawka | 2021-04-27 | Comirnaty (Pfizer), seria EP3570?; miesiąc odczytany niepewnie |
 | COVID-19 – II dawka | 2021-06-10 | Comirnaty (Pfizer), seria FD-4342 |
 | COVID-19 – III dawka | 2021-12-19 | Comirnaty (Pfizer), seria FL4210 |
+| grypa | 2026-11-21 | Vaxigrip, ok. 12:30 (wg pacjenta); seria i miejsce podania b.d. |
 
 Źródła dla szczepień 2015 i 2021: międzynarodowa książeczka szczepień, s. 8 (Infectious Diseases Hospital Vaccination Center, Warszawa; dr Michał Targowski) – `archive/docs/2015/2015-09-02_ksiazeczka_szczepien_inne.jpeg`; karty Comirnaty – `archive/docs/2021/2021-06-10_karta_szczepienia_covid.jpeg`, `archive/docs/2021/2021-12-19_karta_szczepienia_covid.jpeg`. Pismo odręczne, „?” = odczyt niepewny.
 
-Brak w dokumentach: świnka, różyczka (MMR nie było wtedy w kalendarzu), WZW A – II dawka, KZM, grypa – do uzupełnienia, jeśli były.
+Brak w dokumentach: świnka, różyczka (MMR nie było wtedy w kalendarzu), WZW A – II dawka, KZM, grypa przed 2026 – do uzupełnienia, jeśli były.

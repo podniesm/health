@@ -263,3 +263,4 @@ Wpisy chronologicznie, najnowsze na dole. Objawy, samopoczucie, energia, stres, 
 - notatki: w nocy 20/21.11 sen praktycznie cały czas na lewym boku (sen 22:40–07:27, 8.45 h, score 89 – `data/body/sleep.csv`); zgodne z obserwacją z 2026-11-19, że prawa strona zatyka się przy dłuższym śnie na prawym boku
 - objawy: kolano prawe – ból 1/10 po biegu (8.3 km / 59 min, śr. HR 138, z Garmina)
 - notatki: 09:45 – Dymista, 1 dawka do każdego otworu nosowego (doraźnie; dawka jak 2026-11-16 – nie podano); kreatyna TREC CM3 1 porcja (`data/nutrition/log.csv`)
+- notatki: ok. 12:30 – szczepienie przeciw grypie (Vaxigrip); ok. 3.5 h po biegu (07:55–08:54); przy odczynie poszczepiennym (ból ramienia, stan podgorączkowy, osłabienie) przez 1–2 dni możliwe wyższe tętno spoczynkowe i niższe HRV
