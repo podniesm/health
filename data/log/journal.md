@@ -265,3 +265,9 @@ Wpisy chronologicznie, najnowsze na dole. Objawy, samopoczucie, energia, stres, 
 - notatki: 09:45 – Dymista, 1 dawka do każdego otworu nosowego (doraźnie; dawka jak 2026-11-16 – nie podano); kreatyna TREC CM3 1 porcja (`data/nutrition/log.csv`)
 - notatki: ok. 12:30 – szczepienie przeciw grypie (Vaxigrip); ok. 3.5 h po biegu (07:55–08:54); przy odczynie poszczepiennym (ból ramienia, stan podgorączkowy, osłabienie) przez 1–2 dni możliwe wyższe tętno spoczynkowe i niższe HRV
 - notatki: 16:51 – stolec typ 3 w skali bristolskiej
+- notatki: wieczorem (godzina nie podana) – medyczna marihuana, 8 zaciągnięć z waporyzatora (stała ilość w komorze – jak w każdej sesji; temperatura nie podana)
+
+## 2026-11-22
+- objawy: kolano prawe – rano 0/10, bez bólu i dyskomfortu (dzień po biegu 8.3 km, 21.11 po biegu 1/10)
+- objawy: samopoczucie po szczepieniu przeciw grypie (Vaxigrip 2026-11-21) bardzo dobre, bez odczynu poszczepiennego (wg pacjenta)
+- objawy: zatoki w pełni drożne, 0/10, bez dolegliwości (2. dzień z rzędu; 20.11 rano 5/10)
