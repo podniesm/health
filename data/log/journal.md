@@ -272,3 +272,4 @@ Wpisy chronologicznie, najnowsze na dole. Objawy, samopoczucie, energia, stres, 
 - objawy: samopoczucie po szczepieniu przeciw grypie (Vaxigrip 2026-11-21) bardzo dobre, bez odczynu poszczepiennego (wg pacjenta)
 - objawy: zatoki w pełni drożne, 0/10, bez dolegliwości (2. dzień z rzędu; 20.11 rano 5/10)
 - notatki: 11:57 – stolec typ 4 w skali bristolskiej
+- notatki: 13:30 – sauna fińska, 90 °C, 3 sesje po 15 min; po każdej schłodzenie pod prysznicem i odpoczynek 20–30 min (dzień wolny od treningu, ~25 h po szczepieniu przeciw grypie – bez odczynu)
