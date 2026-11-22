@@ -271,3 +271,4 @@ Wpisy chronologicznie, najnowsze na dole. Objawy, samopoczucie, energia, stres, 
 - objawy: kolano prawe – rano 0/10, bez bólu i dyskomfortu (dzień po biegu 8.3 km, 21.11 po biegu 1/10)
 - objawy: samopoczucie po szczepieniu przeciw grypie (Vaxigrip 2026-11-21) bardzo dobre, bez odczynu poszczepiennego (wg pacjenta)
 - objawy: zatoki w pełni drożne, 0/10, bez dolegliwości (2. dzień z rzędu; 20.11 rano 5/10)
+- notatki: 11:57 – stolec typ 4 w skali bristolskiej
