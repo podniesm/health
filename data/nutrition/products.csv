@@ -13,7 +13,7 @@ date,name,brand,state,basis_g,kcal,protein_g,carbs_g,sugars_g,fiber_g,fat_g,sat_
 2026-10-31,Fuet Extra,Biedronka,gotowy,100,422,27,1.4,,,34,,3.7,,zdjęcie etykiety (log.csv 2026-10-31),
 2026-11-06,żelki,,gotowy,100,337,3.2,80,52,,,,0.05,,zdjęcie etykiety (log.csv 2026-11-06),"tłuszcz <0.5 g, nasycone <0.1 g/100 g; producent nieznany"
 2026-11-06,Pausa Ciok,,gotowy,100,423,5.3,59,36,1.1,18,11,0.42,35,zdjęcie etykiety (log.csv 2026-11-06),1 batonik 35 g; zdjęcie etykiety z 2026-11-22: makro/pausa_ciok_makro.jpg (wartości zgodne; błonnik na zdjęciu niewidoczny); producent Schär (bezglutenowy)
-2026-11-06,wafelki z kremem z orzeszków arachidowych,,gotowy,100,551,8.9,59,35,3.4,30,15,0.20,8,zdjęcie etykiety (log.csv 2026-11-06),nazwa produktu niewidoczna; 1 szt. = 8 g (założone z porcji na etykiecie)
+2026-11-06,wafelki z kremem z orzeszków arachidowych,Wedel,gotowy,100,551,8.9,59,35,3.4,30,15,0.20,8,zdjęcie etykiety (log.csv 2026-11-06),nazwa produktu niewidoczna; 1 szt. = 8 g (założone z porcji na etykiecie); zdjęcie etykiety z 2026-11-22: makro/wafelki_arachidowe_wedel_makro.jpg (wartości zgodne; marka Wedel wg użytkownika); 1 wafelek = 8 g
 2026-11-06,Chocolate O's,Schär,gotowy,100,499,6.6,62,31,4.1,24,15,1.0,6,zdjęcie etykiety (log.csv 2026-11-06),bezglutenowe herbatniki kakaowe z nadzieniem; 1 szt. = 6 g
 2026-11-06,ryż jaśminowy,Kupiec,suchy,100,354,6.7,78.9,0.2,2.4,0.7,0.2,0.02,50,makro/ryz_jasminowy_kupiec_makro.jpg,wartości dla suchego produktu; porcja 50 g; opakowanie 400 g = 8 porcji
 2026-11-16,jogurt naturalny bez laktozy,Zott,gotowy,100,65,4.8,3.7,3.7,,3.1,2.1,0.16,,makro/jogurt_naturalny_bez_laktozy_zott_makro.jpg,laktoza <0.01 g/100 g; producent wg adresu zott-primo.pl na etykiecie; gramatura opakowania niewidoczna na zdjęciu
