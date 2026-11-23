@@ -274,3 +274,6 @@ Wpisy chronologicznie, najnowsze na dole. Objawy, samopoczucie, energia, stres, 
 - objawy: zatoki w pełni drożne, 0/10, bez dolegliwości (2. dzień z rzędu; 20.11 rano 5/10)
 - notatki: 11:57 – stolec typ 4 w skali bristolskiej
 - notatki: 13:30 – sauna fińska, 90 °C, 3 sesje po 15 min; po każdej schłodzenie pod prysznicem i odpoczynek 20–30 min; między sesjami wypite 1.5 l wody mineralnej (dzień wolny od treningu, ~25 h po szczepieniu przeciw grypie – bez odczynu)
+
+## 2026-11-23
+- objawy: kolano prawe – ból 0/10 po siłowni (66 min, RPE 6, z Garmina)
