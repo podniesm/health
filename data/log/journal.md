@@ -279,3 +279,6 @@ Wpisy chronologicznie, najnowsze na dole. Objawy, samopoczucie, energia, stres, 
 - objawy: kolano prawe – ból 0/10 po siłowni (66 min, RPE 6, z Garmina)
 - notatki: 10:16 – stolec typ 3 w skali bristolskiej
 - notatki: 17:09 – stolec typ 3 w skali bristolskiej
+
+## 2026-11-24
+- objawy: kolano prawe – ból 0/10 po biegu (7.06 km / 49.5 min, bieg E + przebieżki, śr. HR 147, RPE 4 – z Garmina)
