@@ -282,3 +282,4 @@ Wpisy chronologicznie, najnowsze na dole. Objawy, samopoczucie, energia, stres, 
 
 ## 2026-11-24
 - objawy: kolano prawe – ból 0/10 po biegu (7.06 km / 49.5 min, bieg E + przebieżki, śr. HR 147, RPE 4 – z Garmina)
+- notatki: 21:37 – stolec typ 2 w skali bristolskiej
